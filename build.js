@@ -14,7 +14,8 @@ const PUBLIC_FILES = [
     'favorites.js',
     'games.json',
     'sitemap.xml',
-    'robots.txt'
+    'robots.txt',
+    'google77ad4489a758f0a6.html'
 ];
 
 const PUBLIC_DIRS = [
@@ -38,7 +39,7 @@ const PRIVATE_ONLY_FILES = [
     'DEPLOYMENT.md',     // Documentation
     'SECURITY_SUMMARY.md', // Security docs
     'node_modules/',     // Dependencies
-    '.github/'           // GitHub Actions
+    '.github/'           // GitHub Actions (keep workflows private)
 ];
 
 async function build() {

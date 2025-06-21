@@ -103,15 +103,15 @@ document.addEventListener('DOMContentLoaded', () => {
             canonical.rel = 'canonical';
             document.head.appendChild(canonical);
         }
-        canonical.href = `https://unblockedgamesgg.com/game.html?name=${encodeURIComponent(game.name)}`;
+        canonical.href = `https://unblocked-gg-games.github.io/game.html?name=${encodeURIComponent(game.name)}`;
         
         // Add Open Graph tags
         updateOpenGraphTags(game, title, description);
     }
     
     function updateOpenGraphTags(game, title, description) {
-        const gameUrl = `https://unblockedgamesgg.com/game.html?name=${encodeURIComponent(game.name)}`;
-        const gameImage = game.image ? `https://unblockedgamesgg.com/${game.image}` : 'https://unblockedgamesgg.com/icons/UNBLOCKED-GAMES-GG.png';
+        const gameUrl = `https://unblocked-gg-games.github.io/game.html?name=${encodeURIComponent(game.name)}`;
+        const gameImage = game.image ? `https://unblocked-gg-games.github.io/${game.image}` : 'https://unblocked-gg-games.github.io/icons/UNBLOCKED-GAMES-GG.png';
         
         const ogTags = [
             { property: 'og:title', content: title },
