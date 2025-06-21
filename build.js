@@ -12,6 +12,9 @@ const PUBLIC_FILES = [
     'script.js',
     'game.js',
     'favorites.js',
+    'components.js',    // Required for header/footer loading
+    'header.html',      // Required for site navigation
+    'footer.html',      // Required for site footer
     'games.json',
     'sitemap.xml',
     'robots.txt',
@@ -26,9 +29,6 @@ const PUBLIC_DIRS = [
 
 // Files to completely exclude from public repo (keep private)
 const PRIVATE_ONLY_FILES = [
-    'components.js',      // Component system (internal)
-    'header.html',        // Template files (internal)
-    'footer.html',        // Template files (internal)
     'racing-games-faq.html', // Specific FAQ pages (optional)
     'performance-monitor.js', // Development tools
     'build.js',          // Build scripts
