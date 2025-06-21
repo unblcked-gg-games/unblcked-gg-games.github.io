@@ -8,14 +8,10 @@ const PUBLIC_FILES = [
     'game.html', 
     'favorites.html',
     'legal.html',
-    'racing-games-faq.html',
     'style.css',
     'script.js',
     'game.js',
     'favorites.js',
-    'components.js',
-    'header.html',
-    'footer.html',
     'games.json',
     'sitemap.xml',
     'robots.txt'
@@ -27,9 +23,27 @@ const PUBLIC_DIRS = [
     'fonts'
 ];
 
+// Files to completely exclude from public repo (keep private)
+const PRIVATE_ONLY_FILES = [
+    'components.js',      // Component system (internal)
+    'header.html',        // Template files (internal)
+    'footer.html',        // Template files (internal)
+    'racing-games-faq.html', // Specific FAQ pages (optional)
+    'performance-monitor.js', // Development tools
+    'build.js',          // Build scripts
+    'deploy.js',         // Deployment scripts
+    'package.json',      // Dependencies
+    'package-lock.json', // Lock file
+    '.gitignore',        // Git config
+    'DEPLOYMENT.md',     // Documentation
+    'SECURITY_SUMMARY.md', // Security docs
+    'node_modules/',     // Dependencies
+    '.github/'           // GitHub Actions
+];
+
 async function build() {
     try {
-        console.log('🚀 Starting build process...');
+        console.log('🚀 Starting secure build process...');
         
         // Clean build directory
         console.log('🧹 Cleaning build directory...');
@@ -37,7 +51,7 @@ async function build() {
         await fs.ensureDir(BUILD_DIR);
         
         // Copy public files
-        console.log('📁 Copying files...');
+        console.log('📁 Copying essential files only...');
         for (const file of PUBLIC_FILES) {
             if (await fs.pathExists(file)) {
                 await fs.copy(file, path.join(BUILD_DIR, file));
@@ -48,7 +62,7 @@ async function build() {
         }
         
         // Copy public directories
-        console.log('📂 Copying directories...');
+        console.log('📂 Copying asset directories...');
         for (const dir of PUBLIC_DIRS) {
             if (await fs.pathExists(dir)) {
                 await fs.copy(dir, path.join(BUILD_DIR, dir));
@@ -58,11 +72,11 @@ async function build() {
             }
         }
         
-        // Create a minimal games.json (remove any sensitive data if needed)
-        console.log('🔒 Processing games.json...');
+        // Create a minimal games.json (remove any sensitive data)
+        console.log('🔒 Processing and cleaning games.json...');
         const gamesData = await fs.readJson('games.json');
         
-        // Remove any potentially sensitive fields (if any)
+        // Remove any potentially sensitive fields and clean data
         const cleanGamesData = gamesData.map(game => ({
             name: game.name,
             type: game.type,
@@ -74,7 +88,7 @@ async function build() {
         
         await fs.writeJson(path.join(BUILD_DIR, 'games.json'), cleanGamesData, { spaces: 2 });
         
-        // Create CNAME file for custom domain (if needed)
+        // Create CNAME file for custom domain
         console.log('🌐 Creating CNAME file...');
         await fs.writeFile(path.join(BUILD_DIR, 'CNAME'), 'unblocked-gg-games.github.io');
         
@@ -82,50 +96,25 @@ async function build() {
         console.log('⚙️  Creating .nojekyll file...');
         await fs.writeFile(path.join(BUILD_DIR, '.nojekyll'), '');
         
-        // Create README for the public repo
-        console.log('📝 Creating README...');
-        const readme = `# Unblocked Games GG
+        // Create minimal README for the public repo
+        console.log('📝 Creating public README...');
+        const readme = `# 🎮 Unblocked Games GG
 
-🎮 **Play the Best Free Online Games**
+**Play the Best Free Online Games - No Downloads Required!**
 
-This is the public repository for [Unblocked Games GG](https://unblocked-gg-games.github.io) - a collection of free, unblocked games that can be played instantly in your browser.
+Visit: [unblocked-gg-games.github.io](https://unblocked-gg-games.github.io)
 
-## 🌟 Features
-
+## ✨ Features
 - 180+ Free Games
-- No Downloads Required
-- Mobile Friendly
 - Instant Play
-- Regular Updates
+- Mobile Friendly
+- No Registration Required
 
-## 🎯 Categories
-
-- Action Games
-- Puzzle Games
-- Racing Games
-- Sports Games
-- Multiplayer Games
-- And many more!
-
-## 🚀 Quick Start
-
-Simply visit [unblocked-gg-games.github.io](https://unblocked-gg-games.github.io) to start playing!
-
-## 📱 Mobile Support
-
-All games are optimized for both desktop and mobile devices.
-
-## 🤝 Contributing
-
-This is an automatically generated repository. The source code is maintained privately.
-
-## 📄 License
-
-MIT License - See LICENSE file for details.
+## 🎯 Game Categories
+Action • Puzzle • Racing • Sports • Multiplayer • And More!
 
 ---
-
-Built with ❤️ for the gaming community
+*This is an automatically generated repository. Source code is maintained privately.*
 `;
         
         await fs.writeFile(path.join(BUILD_DIR, 'README.md'), readme);
@@ -156,9 +145,17 @@ SOFTWARE.`;
         
         await fs.writeFile(path.join(BUILD_DIR, 'LICENSE'), license);
         
-        console.log('✅ Build completed successfully!');
+        console.log('✅ Secure build completed successfully!');
         console.log(`📦 Built files are in: ${BUILD_DIR}/`);
-        console.log('🚀 Ready for deployment to GitHub Pages!');
+        console.log('🔒 Private files excluded from public deployment');
+        console.log(`🚀 Ready for secure deployment to GitHub Pages!`);
+        
+        // Log what was excluded for security
+        console.log('\n🛡️  Security Report:');
+        console.log('   Private files kept secure:');
+        PRIVATE_ONLY_FILES.forEach(file => {
+            console.log(`   🔒 ${file}`);
+        });
         
     } catch (error) {
         console.error('❌ Build failed:', error);
