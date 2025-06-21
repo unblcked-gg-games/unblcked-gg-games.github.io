@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://unblockedgamesgg.com/</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Main Pages -->
+  <url>
+    <loc>https://unblockedgamesgg.com/favorites.html</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/legal.html</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/racing-games-faq.html</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Category Pages -->
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Action</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Racing</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Puzzle</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Platformer</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Multiplayer</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Shooter</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Skill</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Idle</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Battle</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/index.html?category=Sport</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Game Pages - Popular Games -->
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Geometry%20Dash</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/goemtrydash.png</image:loc>
+      <image:title>Geometry Dash - Unblocked Game</image:title>
+      <image:caption>Play Geometry Dash unblocked - A fast-paced, rhythm-based platformer game</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Temple%20Run%202</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/Temple%20Run%202.jpeg</image:loc>
+      <image:title>Temple Run 2 - Unblocked Game</image:title>
+      <image:caption>Play Temple Run 2 unblocked - The addictive mega-hit endless runner</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Among%20Us</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/Among%20Us.jpg</image:loc>
+      <image:title>Among Us - Unblocked Game</image:title>
+      <image:caption>Play Among Us unblocked - The popular social deduction game</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Happy%20Wheels</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/Happy%20Wheels.jpeg</image:loc>
+      <image:title>Happy Wheels - Unblocked Game</image:title>
+      <image:caption>Play Happy Wheels unblocked - The physics-based obstacle course game</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Run%203</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/Run%203.jpeg</image:loc>
+      <image:title>Run 3 - Unblocked Game</image:title>
+      <image:caption>Play Run 3 unblocked - The endless space running game</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Slope</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/Slope%202.jpeg</image:loc>
+      <image:title>Slope - Unblocked Game</image:title>
+      <image:caption>Play Slope unblocked - The fast-paced ball rolling game</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=1v1%20Lol</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/1v1%20Lol.png</image:loc>
+      <image:title>1v1 LOL - Unblocked Game</image:title>
+      <image:caption>Play 1v1 LOL unblocked - The competitive building and shooting game</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Papa%27s%20Pizzeria</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/Papa%27s%20Pizzeria.jpeg</image:loc>
+      <image:title>Papa's Pizzeria - Unblocked Game</image:title>
+      <image:caption>Play Papa's Pizzeria unblocked - The popular restaurant management game</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Monkey%20Mart</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/Monkey%20Mart.jpeg</image:loc>
+      <image:title>Monkey Mart - Unblocked Game</image:title>
+      <image:caption>Play Monkey Mart unblocked - The fun supermarket management game</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Snow%20Rider%203D</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://unblockedgamesgg.com/game-images/Snow%20Rider%203D.jpg</image:loc>
+      <image:title>Snow Rider 3D - Unblocked Game</image:title>
+      <image:caption>Play Snow Rider 3D unblocked - The thrilling sledding adventure game</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Additional popular games -->
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Stickman%20Hook</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Vex%207</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Drive%20Mad</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Subway%20Surfers</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Bitlife</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Moto%20X3M</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Flappy%20Bird</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=2048</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Tetris</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://unblockedgamesgg.com/game.html?name=Chrome%20Dino</loc>
+    <lastmod>2024-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset> 

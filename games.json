@@ -1,0 +1,1531 @@
+[
+  {
+    "name": "Cow Bay",
+    "type": "idle",
+    "image": "game-images/Cow Bay.png",
+    "url": "https://jamestore214.github.io/g3/class-309",
+    "description": "Welcome to Cow Bay! A magical place where you can relax, build your own farm, and raise adorable cows. Manage your resources and expand your island in this charming idle game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/cowbay.png"
+  },
+  {
+    "name": "Temple Run 2",
+    "type": "platformer",
+    "image": "game-images/Temple Run 2.jpeg",
+    "url": "https://jamestore214.github.io/g26/class-405/",
+    "description": "The addictive mega-hit Temple Run is now out! All your friends are playing it - can you beat their high scores?! You've stolen the cursed idol from the temple, and now you have to run for your life to escape the Evil Demon Monkeys nipping at your heels.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/templerun2.jpeg"
+  },
+  {
+    "name": "Bee Swarm Simulator",
+    "type": "idle",
+    "image": "game-images/Bee Swarm Simulator.webp",
+    "url": "https://dddatt.github.io/bss/",
+    "newtab": "true",
+    "description": "Grow your own swarm of bees, collect pollen, and make honey in Bee Swarm Simulator. Meet friendly bears, complete their quests and get rewards!",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/beeswarm.webp"
+  },
+  {
+    "name": "Soccer Skills World Cup",
+    "type": "skill",
+    "image": "game-images/Soccer Skills World Cup.jpeg",
+    "url": "https://jamestore214.github.io/g2/class-423/#topvaz",
+    "description": "Lead your national team to glory in the Soccer Skills World Cup! Compete in thrilling matches, showcase your dribbling and shooting skills, and become a world champion.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Soccerworld.jpeg"
+  },
+  {
+    "name": "Online PVP",
+    "type": "multiplayer",
+    "image": "game-images/Online PVP.png",
+    "url": "https://kittengames.github.io/mogus/Shootur.html",
+    "description": "Engage in intense online player-versus-player combat. Test your reflexes and strategy against players from around the world in this action-packed shooter.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/shootergame.png"
+  },
+  {
+    "name": "Eaglercraft",
+    "type": "skill",
+    "image": "game-images/Eaglercraft.jpeg",
+    "url": "https://irv77.github.io/AmplerLauncher/",
+    "description": "Explore a blocky, procedurally generated 3D world. Mine resources, craft tools, and build structures in this creative sandbox game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/eaglercraft.jpeg"
+  },
+  {
+    "name": "Super Star Car",
+    "type": "racing",
+    "image": "game-images/Super Star Car.jpeg",
+    "url": "https://labgstore311.github.io/g69/class-630/",
+    "description": "Get behind the wheel of a high-speed vehicle in Super Star Car. Race against skilled opponents, upgrade your car, and dominate the track.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/supstar.jpeg"
+  },
+  {
+    "name": "Stick Fighter",
+    "type": "battle",
+    "image": "game-images/Stick Fighter.jpeg",
+    "url": "https://labgstore311.github.io/g2/class-629/",
+    "description": "Enter a world of stick-figure mayhem! Fight against other stickmen in dynamic, physics-based battles. Use a variety of weapons to come out on top.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Stickfight.jpeg"
+  },
+  {
+    "name": "Gobdun",
+    "type": "battle",
+    "image": "game-images/Gobdun.jpeg",
+    "url": "https://labgstore311.github.io/g50/class-21/",
+    "description": "Venture into a dark dungeon filled with goblins and other monsters. Fight for survival, collect loot, and prove your mettle in this challenging battle game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/gobdum.jpeg"
+  },
+  {
+    "name": "Riddle Transfer 2",
+    "type": "puzzle",
+    "image": "game-images/Riddle Transfer 2.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/c89h5i.swf",
+    "description": "The sequel to the popular puzzle-adventure game. Continue the story, solve intricate riddles, and interact with a quirky cast of characters to uncover the mystery.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trans2.jpeg"
+  },
+  {
+    "name": "Riddle Transfer 1",
+    "type": "puzzle",
+    "image": "game-images/Riddle Transfer 1.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/s46796.swf",
+    "description": "Embark on a point-and-click adventure full of clever puzzles and engaging storytelling. Can you solve the riddles and escape?",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trans1.jpeg"
+  },
+  {
+    "name": "Chicken Merge",
+    "type": "idle",
+    "image": "game-images/Chicken Merge.jpeg",
+    "url": "https://labgstore311.github.io/g9/class-641/",
+    "description": "Merge chickens to create new and powerful breeds! Build your chicken army, fight off enemies, and become the ultimate chicken tycoon in this addictive idle game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Chicken-merge.jpeg"
+  },
+  {
+    "name": "ZOOM-BE",
+    "type": "multiplayer",
+    "image": "game-images/ZOOM-BE.png",
+    "url": "https://labgstore311.github.io/g3/class-316",
+    "description": "Team up with a friend in this cooperative puzzle-platformer. Control two zombie friends, help each other overcome obstacles, and find your way to the exit.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/zoombi-ezgif.com-avif-to-png-converter.png"
+  },
+  {
+    "name": "Appel",
+    "type": "platformer",
+    "image": "game-images/Appel.jpeg",
+    "url": "https://kittengames.github.io/mogus/Appul_.html",
+    "description": "Play as Appel, a cute character on a big adventure. Navigate through challenging platforming levels, collect items, and reach the goal.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/appel.jpeg"
+  },
+  {
+    "name": "Angry Birds Space",
+    "type": "puzzle",
+    "image": "game-images/Angry Birds Space.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/eybma7.swf",
+    "description": "The Angry Birds are back, and this time they're in space! Use gravitational fields to your advantage as you fling birds to destroy pig-built structures.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/angryspace.jpeg"
+  },
+  {
+    "name": "Penalty Shooter 2",
+    "type": "skill",
+    "image": "game-images/Penalty Shooter 2.jpeg",
+    "url": "https://labgstore311.github.io/g2/class-627",
+    "description": "Experience the thrill of a penalty shootout. Choose your team, aim carefully, and score goals to win the tournament. Can you handle the pressure?",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/penalshoot.jpeg"
+  },
+  {
+    "name": "Rally Racer Dirt",
+    "type": "Racing",
+    "image": "game-images/Rally Racer Dirt.jpeg",
+    "url": "https://trafficjam3d.github.io/rally-racer-dirt/",
+    "description": "Get ready for some off-road action in Rally Racer Dirt. Drive powerful rally cars on challenging dirt tracks and race against the clock to get the best time.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Rallyracerdirt.jpeg"
+  },
+  {
+    "name": "Angry Birds Halloween",
+    "type": "Puzzle",
+    "image": "game-images/Angry Birds Halloween.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/sddisy.swf&aspect=16:9",
+    "description": "Celebrate Halloween with the Angry Birds in this spooky-themed edition. Launch birds to topple structures and defeat the pigs in festive, challenging levels.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/angrybridshallo.jpeg"
+  },
+  {
+    "name": "Riddle School 5",
+    "type": "Puzzle",
+    "image": "game-images/Riddle School 5.jpg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/rvxug0.swf",
+    "description": "The adventure continues in Riddle School 5. Help Phil escape from a high-security facility by solving a series of clever and humorous puzzles.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle5.jpg"
+  },
+  {
+    "name": "Riddle School 4",
+    "type": "Puzzle",
+    "image": "game-images/Riddle School 4.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/kd6q4g.swf",
+    "description": "Phil is back in Riddle School 4. This time, he finds himself in a new school with even more challenging puzzles. Can you help him escape once again?",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle4.jpeg"
+  },
+  {
+    "name": "Riddle School 3",
+    "type": "Puzzle",
+    "image": "game-images/Riddle School 3.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/pjl34p.swf&aspect=13:9",
+    "description": "The third installment of the popular puzzle series. School is a bit different this time, and Phil needs your help to navigate its strange corridors and solve its secrets.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle3.jpeg"
+  },
+  {
+    "name": "Riddle School 2",
+    "type": "Puzzle",
+    "image": "game-images/Riddle School 2.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/4g1htn.swf&aspect=31:18",
+    "description": "School's back in session, and so are the puzzles! In Riddle School 2, you'll need to use your wits to find a way out of the classroom once more.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle2.png"
+  },
+  {
+    "name": "Angry Birds",
+    "type": "Puzzle",
+    "image": "game-images/Angry Birds Halloween.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/krop63.swf&aspect=16:9",
+    "description": "The classic game that started it all. Use a slingshot to launch birds at structures to destroy the pigs who stole their eggs. A true test of skill and physics.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/angryvogels.jpg"
+  },
+  {
+    "name": "Riddle School",
+    "type": "Puzzle",
+    "image": "game-images/Riddle School 4.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/j4sx7b.swf",
+    "description": "Trapped in a boring math class, you must find a way to escape. Solve a series of point-and-click puzzles to make your getaway in the original Riddle School.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/riddle1.jpeg"
+  },
+  {
+    "name": "Big Tall Small",
+    "type": "Puzzle",
+    "image": "game-images/Big Tall Small.jpeg",
+    "url": "https://abinbins.github.io/a8/big-tall-small/",
+    "description": "A clever puzzle game where you control three characters with different abilities. Use their unique skills to solve puzzles and complete each level.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bigtallsmall.jpeg"
+  },
+  {
+    "name": "Pong",
+    "type": "Retro",
+    "image": "game-images/Pong.png",
+    "url": "https://sethclydesdale.github.io/browser-pong/",
+    "description": "The original arcade classic. Control a paddle and hit the ball past your opponent. Simple, addictive, and timeless.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pong.png"
+  },
+  {
+    "name": "Pokemon - Emerald",
+    "type": "Retro",
+    "image": "game-images/Pokemon - Emerald.webp",
+    "url": "https://kittengames.github.io/mogus/poke.html",
+    "description": "Relive the classic Pokemon adventure in the Hoenn region. Catch, train, and battle with your Pokemon to become the champion of the Pokemon League.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pokemon.webp"
+  },
+  {
+    "name": "The Password Game",
+    "type": "Puzzle",
+    "image": "game-images/The Password Game.png",
+    "url": "https://kittengames.github.io/mogus/pass.html",
+    "description": "A uniquely challenging puzzle game where you must create a password that follows an increasingly bizarre set of rules. How far can you get?",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/pass.png"
+  },
+  {
+    "name": "Little Alchemy 2",
+    "type": "Puzzle",
+    "image": "game-images/Little Alchemy 2.jpeg",
+    "url": "https://only-games.github.io/projects/little-alchemy/index.html",
+    "description": "Start with four basic items and combine them to discover hundreds of new ones. A simple yet deep crafting game of creativity and discovery.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/little.jpeg"
+  },
+  {
+    "name": "The Final Earth 2",
+    "type": "Puzzle",
+    "image": "game-images/The Final Earth 2.jpeg",
+    "url": "https://us.surajpyakurel.com.np/gf/thefinalearth2.html",
+    "description": "Build a bustling city in space! Manage resources, construct buildings, and keep your citizens happy in this relaxing city-building game.",
+    "original_image_url": "https://cdn.statically.io/gh/SuperPepino/gameicons/refs/heads/main/icons/download%20(30).jpeg"
+  },
+  {
+    "name": "Run 3",
+    "type": "Platformer",
+    "image": "game-images/Run 3.jpeg",
+    "url": "https://lekug.github.io/tn6pS9dCf37xAhkJv/",
+    "description": "Run and jump your way through a series of challenging levels in outer space. The twist? The walls and ceilings are your new floors. Don't fall!",
+    "original_image_url": "https://cdn.statically.io/gh/SuperPepino/gameicons/refs/heads/main/icons/download%20(29).jpeg"
+  },
+  {
+    "name": "Backrooms",
+    "type": "Puzzle",
+    "image": "game-images/Backrooms.jpeg",
+    "url": "https://backroomsgame.io/embed/backrooms-game",
+    "description": "Navigate through an endless maze of eerie, empty rooms. A game of exploration and suspense. Can you find a way out?",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/8473434d1b812442a33272611c659990750fdad0/images/download%20(28).jpeg"
+  },
+  {
+    "name": "Poor Bunny",
+    "type": "Idle",
+    "image": "game-images/Poor Bunny.png",
+    "url": "https://poorbunny.gitlab.io/file/",
+    "description": "Help a hungry bunny collect all the carrots in each level while avoiding dangerous traps. A challenging and cute arcade game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/ripbunny.png"
+  },
+  {
+    "name": "Bad Time Simulator",
+    "type": "Idle",
+    "image": "game-images/Bad Time Simulator.jpeg",
+    "url": "https://doodle-pile.gitlab.io/endless-sans/",
+    "description": "Face off against a powerful foe in this challenging battle simulator. A tough-as-nails game for those who love a good challenge.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/badtim.jpeg"
+  },
+  {
+    "name": "Among Us",
+    "type": "Multiplayer",
+    "image": "game-images/Among Us.jpg",
+    "url": "https://kittengames.github.io/mogus/",
+    "description": "A game of teamwork and betrayal. Work together to complete tasks on a spaceship, but beware of the impostor among you whose goal is to eliminate everyone.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/mogus.jpg"
+  },
+  {
+    "name": "Papa's Pizzeria",
+    "type": "Idle",
+    "image": "game-images/Papa's Pizzeria.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/papaspizzeria_v2.swf",
+    "description": "Take orders, bake pizzas, and serve customers in Papa's Pizzeria. A classic time-management game where you run your own pizza shop.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/daddypiz.jpeg"
+  },
+  {
+    "name": "Achtung Die Kurve",
+    "type": "multiplayer",
+    "image": "game-images/Achtung Die Kurve.jpeg",
+    "url": "https://achtung.life/",
+    "description": "A simple yet highly addictive multiplayer game. Control a constantly growing line and try to avoid crashing into walls or other players.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/achtung.jpeg"
+  },
+  {
+    "name": "Hole.io",
+    "type": "Skill",
+    "image": "game-images/Hole.io.jpeg",
+    "url": "https://us.surajpyakurel.com.np/gf/holeio.html",
+    "description": "Control a black hole and consume everything in your path. Grow bigger and bigger as you swallow up the city in this chaotic and fun .io game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/holeo.jpeg"
+  },
+  {
+    "name": "Bloons TD 4",
+    "type": "Skill",
+    "image": "game-images/Bloons TD 4.jpg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/bloons-td4-expansion.swf",
+    "description": "The classic tower defense game is back! Place monkey towers to pop waves of colorful balloons. Features new towers, upgrades, and tracks.",
+    "original_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJtEH7-ixI7kF48chSfN1uQSaTVv1MEl2eQ&s"
+  },
+  {
+    "name": "Idle Miner",
+    "type": "Idle",
+    "image": "game-images/Idle Miner.jpeg",
+    "url": "https://mountain-game-games.github.io/zidleminer.html",
+    "description": "Manage your own mine and become a tycoon! Hire miners, automate your workflow, and collect resources to grow your mining empire.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/idelminer.jpeg"
+  },
+  {
+    "name": "Masked Forces",
+    "type": "Shooter",
+    "image": "game-images/Masked Forces.jpeg",
+    "url": "https://labgstore311.github.io/g26/class-525",
+    "description": "Join the elite masked forces in this action-packed first-person shooter. Play online against other players in various game modes and maps.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/maskedforces.jpeg"
+  },
+  {
+    "name": "SuperHero.io",
+    "type": "Skill",
+    "image": "game-images/SuperHero.io.jpeg",
+    "url": "https://slope-game.github.io/superheroio/",
+    "description": "A superhero-themed .io game where you collect orbs to grow and defeat other players. Evolve your superhero and dominate the arena.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/supaero.jpeg"
+  },
+  {
+    "name": "Shady Bears",
+    "type": "Skill",
+    "image": "game-images/Shady Bears.png",
+    "url": "https://shadybears.gitlab.io/file/",
+    "description": "Protect your bears from the sun by moving them into the shade. A simple but challenging game of timing and quick thinking.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/623fc333ec7c123ac6ec5e130ded5c05-ezgif.com-avif-to-png-converter.png"
+  },
+  {
+    "name": "Snow Rider 3D",
+    "type": "Skill",
+    "image": "game-images/Snow Rider 3D.jpg",
+    "url": "https://snowrider97.github.io/file/",
+    "description": "Ride a sleigh down a snowy mountain at high speed. Dodge obstacles, collect gifts, and see how far you can go in this thrilling 3D endless runner.",
+    "original_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsp_VjgVsbkQXQDeqc3O0jjRHP_b37hV7cw&s"
+  },
+  {
+    "name": "Lingo",
+    "type": "Skill",
+    "image": "game-images/Lingo.jpeg",
+    "url": "https://www.lingospelen.nl/",
+    "description": "A classic word-guessing game. You have a limited number of attempts to guess a secret word. A fun way to test your vocabulary.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/lingo.jpeg"
+  },
+  {
+    "name": "Banana Poker",
+    "type": "Skill",
+    "image": "game-images/Banana Poker.jpeg",
+    "url": "https://www.culinaryschools.org/kids-games/banana-poker/game.php",
+    "newtab": true,
+    "description": "A fun and fruity twist on the classic game of poker. Play against opponents, make the best hand, and win all the bananas!",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/bana.jpeg"
+  },
+  {
+    "name": "Bingding of isaac : wrath of the lamb",
+    "type": "idle",
+    "image": "game-images/Bingding of isaac _ wrath of the lamb.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/bindisaac.swf",
+    "description": "Enter a basement full of monsters and secrets in this action-packed roguelike shooter. With randomly generated levels, every run is a new adventure.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/iss.png"
+  },
+  {
+    "name": "Polytrack",
+    "type": "racing",
+    "image": "game-images/Polytrack.jpg",
+    "url": "https://shookcheeto.shokodeal.ru/gf/polytrack.html",
+    "description": "Race on futuristic, low-poly tracks in this stylish racing game. Master the controls, drift around corners, and set new records.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/polytrack.jpg"
+  },
+  {
+    "name": "Bomb Word Filler",
+    "type": "skill",
+    "image": "game-images/Bomb Word Filler.png",
+    "url": "https://bombparty-clone.fly.dev/",
+    "newtab": true,
+    "description": "A fast-paced word game where you must think on your feet. Come up with words containing a specific letter combination before the bomb explodes.",
+    "original_image_url": "https://cdn.pixabay.com/photo/2017/01/31/16/59/bomb-2025548_1280.png"
+  },
+  {
+    "name": "Age of War",
+    "type": "idle",
+    "image": "game-images/Age of War.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/agewar.swf",
+    "description": "A classic strategy game where you evolve your army through different historical ages. Defend your base and destroy the enemy's to win.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/agewar.jpeg"
+  },
+  {
+    "name": "Age of War 2",
+    "type": "idle",
+    "image": "game-images/Age of War 2.webp",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/agewar2.swf",
+    "description": "The battle continues in Age of War 2. With new units, upgrades, and special abilities, this sequel takes the epic strategy gameplay to the next level.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/agewar2.webp"
+  },
+  {
+    "name": "Earthwalker",
+    "type": "Skill",
+    "image": "game-images/Earthwalker.jpg",
+    "url": "https://earthwalker.codingkitten.hackclub.app",
+    "newtab": true,
+    "description": "A unique game of balance and precision. Walk on a rotating planet and avoid falling off. How long can you survive?",
+    "original_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjaCnSCafh1oPQMXSuZQ0adV5q7KA5lqJ-Q&s"
+  },
+  {
+    "name": "Wikipedia Speedruns",
+    "type": "Skill",
+    "image": "game-images/Wikipedia Speedruns.png",
+    "url": "https://wikispeedruns.com/",
+    "description": "A game of knowledge and speed. Race against the clock to navigate from a starting Wikipedia article to a target article using only the links within the text.",
+    "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Wikipedia-logo_ka.png"
+  },
+  {
+    "name": "Gobble",
+    "type": "Skill",
+    "image": "game-images/Gobble.png",
+    "url": "https://math181124.github.io/g9/class-420",
+    "description": "A fun and frantic eating game. Gobble up smaller items to grow bigger, but avoid larger opponents who can eat you!",
+    "original_image_url": "https://math181124.github.io/img/class-420.png"
+  },
+  {
+    "name": "Stick Defenders",
+    "type": "shooter",
+    "image": "game-images/Stick Defenders.png",
+    "url": "https://math181124.github.io/g2/class-416",
+    "description": "Defend your position from waves of stickman enemies. Hire units, upgrade their abilities, and use powerful skills to hold the line.",
+    "original_image_url": "https://math181124.github.io/img/class-416.png"
+  },
+  {
+    "name": "Level Devil",
+    "type": "Platformer",
+    "image": "game-images/Level Devil.png",
+    "url": "https://math181124.github.io/g22/class-356",
+    "description": "A deceptively simple platformer with a devilish twist. The levels are full of unexpected traps and trolls. Can you keep your cool and reach the end?",
+    "original_image_url": "https://math181124.github.io/img/class-356.png"
+  },
+  {
+    "name": "Super Speeder",
+    "type": "Skill",
+    "image": "game-images/Super Speeder.png",
+    "url": "https://math181124.github.io/g7/class-82",
+    "description": "A high-speed avoidance game. Pilot a ship through a hazardous tunnel, dodge obstacles, and survive for as long as possible.",
+    "original_image_url": "https://math181124.github.io/img/class-82.png"
+  },
+  {
+    "name": "Swingo",
+    "type": "Platformer",
+    "image": "game-images/Swingo.png",
+    "url": "https://math181124.github.io/g69/class-636",
+    "description": "Swing through challenging levels in this physics-based platformer. Time your swings perfectly to overcome obstacles and reach the goal.",
+    "original_image_url": "https://math181124.github.io/img/class-636.png"
+  },
+  {
+    "name": "Blumgi Castle",
+    "type": "Battle",
+    "image": "game-images/Blumgi Castle.png",
+    "url": "https://math181124.github.io/g16/class-427",
+    "description": "A fun and explosive battle game. Place bombs strategically to defeat your enemies and send them flying off the castle.",
+    "original_image_url": "https://math181124.github.io/img/class-427.png"
+  },
+  {
+    "name": "Stickman Ragdoll Fight",
+    "type": "battle",
+    "image": "game-images/Stickman Ragdoll Fight.png",
+    "url": "https://math181124.github.io/g177/class-281",
+    "description": "Engage in chaotic physics-based fights as a stickman. Use a variety of moves and weapons to defeat your opponents in this ragdoll fighting game.",
+    "original_image_url": "https://math181124.github.io/img/class-281.png"
+  },
+  {
+    "name": "Stickman Run",
+    "type": "platformer",
+    "image": "game-images/Stickman Run.png",
+    "url": "https://math181124.github.io/g7/class-74",
+    "description": "A fast-paced running game starring a stickman. Jump over obstacles, slide under barriers, and see how far you can run.",
+    "original_image_url": "https://math181124.github.io/img/class-74.png"
+  },
+  {
+    "name": "Mimelet",
+    "type": "platformer",
+    "image": "game-images/Mimelet.png",
+    "url": "https://math181124.github.io/g8/class-140",
+    "description": "A charming platformer where you can absorb the powers of your enemies. Use their abilities to solve puzzles and explore the world.",
+    "original_image_url": "https://math181124.github.io/img/class-140.png"
+  },
+  {
+    "name": "Stickman Parkour 3",
+    "type": "platformer",
+    "image": "game-images/Stickman Parkour 3.png",
+    "url": "https://math181124.github.io/g7/class-75",
+    "description": "Perform amazing parkour stunts as a stickman. Run, jump, and climb your way through a series of increasingly difficult levels.",
+    "original_image_url": "https://math181124.github.io/img/class-75.png"
+  },
+  {
+    "name": "Blumgi Dragon",
+    "type": "Skill",
+    "image": "game-images/Blumgi Dragon.png",
+    "url": "https://math181124.github.io/g22/class-363",
+    "description": "Play as a cute dragon in this action-packed skill game. Fly around, defeat enemies, and collect gems to become the most powerful dragon.",
+    "original_image_url": "https://math181124.github.io/img/class-363.png"
+  },
+  {
+    "name": "1v1 Lol",
+    "type": "Skill",
+    "image": "game-images/1v1 Lol.png",
+    "url": "https://math181124.github.io/g77-3/class-439",
+    "description": "A fast-paced online third-person shooter where you can build structures to defend yourself. Test your building and shooting skills in intense 1v1 battles.",
+    "original_image_url": "https://math181124.github.io/img/class-439.png"
+  },
+  {
+    "name": "Tiger Simulator 3D",
+    "type": "platformer",
+    "image": "game-images/Tiger Simulator 3D.png",
+    "url": "https://math181124.github.io/g69/class-587",
+    "description": "Experience life as a majestic tiger in this 3D simulation game. Explore a vast open world, hunt for food, and raise a family.",
+    "original_image_url": "https://math181124.github.io/img/class-587.png"
+  },
+  {
+    "name": "Champions League",
+    "type": "skill",
+    "image": "game-images/Champions League.png",
+    "url": "https://math181124.github.io/g2/class-588",
+    "description": "Compete in Europe's most prestigious soccer tournament. Choose your team and lead them to victory in the Champions League.",
+    "original_image_url": "https://math181124.github.io/img/class-588.png"
+  },
+  {
+    "name": "DreadHead Parkour",
+    "type": "platformer",
+    "image": "game-images/DreadHead Parkour.png",
+    "url": "https://math181124.github.io/g97/class-412",
+    "description": "A stylish parkour game with a unique dreadlocked character. Run and jump across rooftops, perform cool tricks, and avoid falling.",
+    "original_image_url": "https://math181124.github.io/img/class-412.png"
+  },
+  {
+    "name": "Golfinity",
+    "type": "skill",
+    "image": "game-images/Golfinity.png",
+    "url": "https://math181124.github.io/g9/class-777",
+    "description": "An endless mini-golf game. Play through an infinite number of procedurally generated levels and see how many holes-in-one you can get.",
+    "original_image_url": "https://math181124.github.io/img/class-777.png"
+  },
+  {
+    "name": "Rocket League",
+    "type": "racing",
+    "image": "game-images/Rocket League.png",
+    "url": "https://math181124.github.io/g2/class-527",
+    "description": "A high-powered hybrid of arcade-style soccer and vehicular mayhem. Drive rocket-powered cars and score amazing goals in this fan-favorite game.",
+    "original_image_url": "https://math181124.github.io/img/class-527.png"
+  },
+  {
+    "name": "Fruit Ninja",
+    "type": "Skill",
+    "image": "game-images/Fruit Ninja.png",
+    "url": "https://math181124.github.io/g50/class-22",
+    "description": "The original fruit-slicing sensation. Swipe your screen to slash fruit while avoiding bombs. A juicy and addictive arcade game.",
+    "original_image_url": "https://math181124.github.io/img/class-22.png"
+  },
+  {
+    "name": "G-Switch 4",
+    "type": "Skill",
+    "image": "game-images/G-Switch 4.png",
+    "url": "https://math181124.github.io/g22/class-366",
+    "description": "The latest installment in the G-Switch series. Run through challenging levels and switch gravity to overcome obstacles. Play with up to 8 players.",
+    "original_image_url": "https://math181124.github.io/img/class-366.png"
+  },
+  {
+    "name": "YoHoHo.io",
+    "type": "Skill",
+    "image": "game-images/YoHoHo.io.png",
+    "url": "https://math181124.github.io/g77/class-828",
+    "description": "A pirate-themed battle royale .io game. Fight other pirates, collect gold, and become the most feared pirate on the high seas.",
+    "original_image_url": "https://math181124.github.io/img/class-828.png"
+  },
+  {
+    "name": "Master Chess",
+    "type": "Skill",
+    "image": "game-images/Master Chess.png",
+    "url": "https://math181124.github.io/g97/class-506",
+    "description": "The timeless game of strategy and tactics. Play against the computer or a friend and prove you are a true chess master.",
+    "original_image_url": "https://math181124.github.io/img/class-506.png"
+  },
+  {
+    "name": "Bob The Robber 4",
+    "type": "platformer",
+    "image": "game-images/Bob The Robber 4.png",
+    "url": "https://math181124.github.io/g97/class-568",
+    "description": "Bob is back for another adventure! This time, he's in France. Help him sneak past guards, avoid cameras, and pull off a series of daring heists.",
+    "original_image_url": "https://math181124.github.io/img/class-568.png"
+  },
+  {
+    "name": "Decent",
+    "type": "platformer",
+    "image": "game-images/Decent.png",
+    "url": "https://math181124.github.io/g22/class-377",
+    "description": "A challenging platformer that will test your skills. Navigate through a series of difficult levels filled with traps and obstacles.",
+    "original_image_url": "https://math181124.github.io/img/class-377.png"
+  },
+  {
+    "name": "Dadish",
+    "type": "platformer",
+    "image": "game-images/Dadish.png",
+    "url": "https://math181124.github.io/g7/class-86",
+    "description": "A charming platformer where you play as a radish who also happens to be a dad. His kids have gone missing, and he needs your help to find them.",
+    "original_image_url": "https://math181124.github.io/img/class-86.png"
+  },
+  {
+    "name": "Gunspin",
+    "type": "shooter",
+    "image": "game-images/Gunspin.jpeg",
+    "url": "https://labgstore311.github.io/g5/class-533",
+    "description": "A unique physics-based shooter where you use the recoil of your gun to move. Master the art of the gunspin to defeat your opponents in stylish duels.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/hunspan.jpeg"
+  },
+  {
+    "name": "Stickman MineSweeper 2",
+    "type": "platformer",
+    "image": "game-images/Stickman MineSweeper 2.png",
+    "url": "https://math181124.github.io/g2/class-426",
+    "description": "A creative mix of platforming and minesweeper. Navigate stickman through a level while using clues to avoid hidden mines.",
+    "original_image_url": "https://math181124.github.io/img/class-426.png"
+  },
+  {
+    "name": "Europe Cup ",
+    "type": "Skill",
+    "image": "game-images/Europe Cup.png",
+    "url": "https://math181124.github.io/g2/class-429",
+    "description": "Compete in the European soccer championship. Choose your national team and lead them to victory in this exciting soccer game.",
+    "original_image_url": "https://math181124.github.io/img/class-429.png"
+  },
+  {
+    "name": "Parkour Race",
+    "type": "platformer",
+    "image": "game-images/Parkour Race.png",
+    "url": "https://tataedu23.github.io/g77/class-830",
+    "description": "Race against others in a fast-paced parkour game. Run, jump, and slide your way to the finish line to become the parkour champion.",
+    "original_image_url": "https://tataedu23.github.io/img/class-830.png"
+  },
+  {
+    "name": "Stickman Hook",
+    "type": "platformer",
+    "image": "game-images/Stickman Hook.jpeg",
+    "url": "https://stickmanhook.gitlab.io/file/",
+    "description": "Swing like a spider-stickman through hundreds of challenging levels. A fun and addictive physics-based game of timing and skill.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/stickman.jpeg"
+  },
+  {
+    "name": "Crossy Road Space",
+    "type": "platformer",
+    "image": "game-images/Crossy Road Space.jpeg",
+    "url": "https://lnahtml.github.io/a/crossy-road/",
+    "description": "The classic Crossy Road gameplay goes intergalactic! Hop across floating platforms and avoid space traffic in this endless arcade hopper.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/crossyroad.jpeg"
+  },
+  {
+    "name": "Boxing Random",
+    "type": "skill",
+    "image": "game-images/Boxing Random.jpeg",
+    "url": "https://labgstore311.github.io/g20/class-825",
+    "description": "A hilarious physics-based boxing game. Each round has random challenges and physics, making every match unpredictable and fun.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Boxrandom.jpeg"
+  },
+  {
+    "name": "Basket Random",
+    "type": "skill",
+    "image": "game-images/Basket Random.png",
+    "url": "https://labgstore311.github.io/g26/class-436",
+    "description": "Experience basketball like never before in this wacky, physics-based game. Play with random characters on random courts for endless fun.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png"
+  },
+  {
+    "name": "Volley Random",
+    "type": "skill",
+    "image": "game-images/Volley Random.jpeg",
+    "url": "https://labgstore311.github.io/g/class-811",
+    "description": "A fun and chaotic volleyball game with ragdoll physics. Each match is different, with random characters and unpredictable gameplay.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/volleyrand.jpeg"
+  },
+  {
+    "name": "Mini Battles",
+    "type": "skill",
+    "image": "game-images/Mini Battles.png",
+    "url": "https://math181124.github.io/g72/class-649",
+    "description": "Challenge your friends in a collection of fun and simple one-button minigames. Perfect for two players on the same device.",
+    "original_image_url": "https://math181124.github.io/img/class-649.png"
+  },
+  {
+    "name": "Blumgi Ball",
+    "type": "skill",
+    "image": "game-images/Blumgi Ball.jpeg",
+    "url": "https://labgstore311.github.io/g16/class-419/",
+    "description": "A fun and bouncy basketball game. Aim your shot, launch your character, and score amazing baskets in this physics-based puzzler.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/blumgiball.jpeg"
+  },
+  {
+    "name": "Blumgi Slime",
+    "type": "Skill",
+    "image": "game-images/Blumgi Slime.png",
+    "url": "https://math181124.github.io/g16/class-421",
+    "description": "Play as a cute, bouncy slime in this action-packed platformer. Jump and dash your way through levels filled with obstacles and enemies.",
+    "original_image_url": "https://math181124.github.io/img/class-421.png"
+  },
+  {
+    "name": "Blumgi Bloom",
+    "type": "Skill",
+    "image": "game-images/Blumgi Bloom.png",
+    "url": "https://math181124.github.io/g4/class-183",
+    "description": "A relaxing and beautiful game about growing flowers. Plant seeds, watch them bloom, and create your own colorful garden.",
+    "original_image_url": "https://math181124.github.io/img/class-183.png"
+  },
+  {
+    "name": "Blumgi Rocket",
+    "type": "racing",
+    "image": "game-images/Blumgi Rocket.jpeg",
+    "url": "https://majesticwafer.github.io/BlumgiRocket/",
+    "description": "Drive a rocket-powered car at incredible speeds. Race through challenging tracks, perform amazing stunts, and reach the finish line.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/blumgirocket.jpeg"
+  },
+  {
+    "name": "Recoil",
+    "type": "puzzle",
+    "image": "game-images/Recoil.jpeg",
+    "url": "https://labgstore311.github.io/g2/class-772",
+    "description": "A puzzle-platformer where you use the recoil from your weapon to propel yourself through levels. A clever twist on the genre.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/recoi.jpeg"
+  },
+  {
+    "name": "Fire Boy and Water Girl 2",
+    "type": "multiplayer",
+    "image": "game-images/Fire Boy and Water Girl 2.png",
+    "url": "https://math181124.github.io/g177/class-345",
+    "description": "The Light Temple is the setting for the second adventure of Fireboy and Watergirl. Work together to solve puzzles and navigate the temple's challenges.",
+    "original_image_url": "https://math181124.github.io/img/class-345.png"
+  },
+  {
+    "name": "Fire Boy and Water Girl 3",
+    "type": "multiplayer",
+    "image": "game-images/Fire Boy and Water Girl 3.png",
+    "url": "https://math181124.github.io/g177/class-344",
+    "description": "Explore the Ice Temple with Fireboy and Watergirl. Use their elemental powers to overcome new puzzles involving light and reflection.",
+    "original_image_url": "https://math181124.github.io/img/class-344.png"
+  },
+  {
+    "name": "Fire Boy and Water Girl 4",
+    "type": "multiplayer",
+    "image": "game-images/Fire Boy and Water Girl 4.png",
+    "url": "https://math181124.github.io/g177/class-343",
+    "description": "The Crystal Temple awaits! This time, Fireboy and Watergirl must use crystal portals to solve puzzles in this cooperative platformer.",
+    "original_image_url": "https://math181124.github.io/img/class-343.png"
+  },
+  {
+    "name": "Fire Boy and Water Girl 5",
+    "type": "multiplayer",
+    "image": "game-images/Fire Boy and Water Girl 5.png",
+    "url": "https://math181124.github.io/g177/class-342",
+    "description": "In Fireboy and Watergirl 5: Elements, explore temples based on all the previous games. A great challenge for fans of the series.",
+    "original_image_url": "https://math181124.github.io/img/class-342.png"
+  },
+  {
+    "name": "Fire Boy and Water Girl 6",
+    "type": "multiplayer",
+    "image": "game-images/Fire Boy and Water Girl 6.png",
+    "url": "https://math181124.github.io/g177/class-341",
+    "description": "The latest adventure for our elemental duo. In Fireboy and Watergirl 6: Fairy Tales, you'll need the help of fairies to solve puzzles and pass levels.",
+    "original_image_url": "https://math181124.github.io/img/class-341.png"
+  },
+  {
+    "name": "Slope 2",
+    "type": "skill",
+    "image": "game-images/Slope 2.jpeg",
+    "url": "https://labgstore311.github.io/g97/class-800/",
+    "description": "The sequel to the popular 3D running game. Roll down a randomized slope, avoid obstacles, and try to get the highest score in this addictive and challenging game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/slop2.jpeg"
+  },
+  {
+    "name": "Choppy Orc",
+    "type": "skill",
+    "image": "game-images/Choppy Orc.jpeg",
+    "url": "https://ucbg.github.io/choppy-orc/",
+    "description": "Help a little orc chop wood and avoid branches. A simple one-button game that tests your timing and reflexes.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/orc.jpeg"
+  },
+  {
+    "name": "Pepernoten Pong",
+    "type": "skill",
+    "image": "game-images/Pepernoten Pong.png",
+    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2023/pietengames-2016/pong.html",
+    "description": "A festive twist on the classic game of Pong, themed around Dutch holiday treats. A fun and simple arcade game for all ages.",
+    "original_image_url": "https://api.sinterklaasjournaal.nl/thumbs/i/0/mod_media_image/72.w640.r640-360.75ed908.png"
+  },
+  {
+    "name": "PietenSprong",
+    "type": "skill",
+    "image": "game-images/PietenSprong.png",
+    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2023/pietengames-2018/pietenjump.html",
+    "description": "A fun jumping game with a Dutch holiday theme. Help the character jump from one platform to another and see how high you can go.",
+    "original_image_url": "https://api.sinterklaasjournaal.nl/thumbs/i/0/mod_media_image/294.w640.r640-360.683956a.png"
+  },
+  {
+    "name": "Pepernotensjoelen",
+    "type": "skill",
+    "image": "game-images/Pepernotensjoelen.png",
+    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2024/pietengames-2019/sjoelen.html",
+    "description": "A digital version of the traditional Dutch game of Sjoelen, but with holiday treats. Slide the pepernoten into the correct slots to score points.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Sjoelen.png"
+  },
+  {
+    "name": "Rhomb",
+    "type": "puzzle",
+    "image": "game-images/Rhomb.png",
+    "url": "https://class1811.github.io/g4/class-187",
+    "description": "A minimalist puzzle game where you rotate rhombuses to match colors. A relaxing and aesthetically pleasing game for puzzle lovers.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rhomb.png"
+  },
+  {
+    "name": "Cubinko",
+    "type": "puzzle",
+    "image": "game-images/Cubinko.png",
+    "url": "https://class1811.github.io/g6/class-161",
+    "description": "A unique puzzle game inspired by pachinko and plinko. Drop cubes and watch them bounce off pegs to reach the goal.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cubinko.png"
+  },
+  {
+    "name": "Trap the cat",
+    "type": "puzzle",
+    "image": "game-images/Trap the cat.jpeg",
+    "url": "https://class1811.github.io/g26/class-494",
+    "description": "A strategic puzzle game where you must trap a cat by clicking on tiles to block its path. Can you outsmart the cunning feline?",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trap.jpeg"
+  },
+  {
+    "name": "Zombie Outbreak",
+    "type": "shooter",
+    "image": "game-images/Zombie Outbreak.png",
+    "url": "https://class1811.github.io/g74/class-237",
+    "description": "Survive a zombie apocalypse in this intense top-down shooter. Fight off hordes of zombies, find supplies, and try to stay alive.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/outbreak.png"
+  },
+  {
+    "name": "OVO Dimensions",
+    "type": "platformer",
+    "image": "game-images/OVO Dimensions.png",
+    "url": "https://class1811.github.io/g50/class-14",
+    "description": "The stick-figure parkour game is back with new dimensions. Run, jump, and slide through even more challenging levels in this fast-paced platformer.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/class-14.png"
+  },
+  {
+    "name": "Dyna Boy",
+    "type": "platformer",
+    "image": "game-images/Dyna Boy.png",
+    "url": "https://ghgstore311.github.io/g74/class-262",
+    "description": "Explore a dangerous cave in this action-packed platformer. Use dynamite to blast through walls and defeat enemies on your quest for treasure.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/dynaboy.png"
+  },
+  {
+    "name": "GROWMI",
+    "type": "puzzle",
+    "image": "game-images/GROWMI.png",
+    "url": "https://labgstore311.github.io/g4/class-182",
+    "description": "A clever puzzle game where you control a growing snake-like creature. Navigate through tight spaces and solve puzzles by managing your length.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/growmi.png"
+  },
+  {
+    "name": "Shootz",
+    "type": "shooter",
+    "image": "game-images/Shootz.png",
+    "url": "https://ghgstore311.github.io/g22/class-394",
+    "description": "A fast-paced top-down shooter with a variety of weapons and enemies. Survive as long as you can against relentless waves of opponents.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/shootz.png"
+  },
+  {
+    "name": "Stacktris",
+    "type": "skill",
+    "image": "game-images/Stacktris.png",
+    "url": "https://ghgstore311.github.io/g2/class-417/",
+    "description": "A unique twist on the classic game of Tetris. Stack falling blocks to build a tower, but be careful not to let it topple over.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/stacktris.png"
+  },
+  {
+    "name": "Tag 2",
+    "type": "skill",
+    "image": "game-images/Tag 2.png",
+    "url": "https://ghgstore311.github.io/g22/class-364",
+    "description": "A fun and fast-paced game of tag. Play as a stick figure and try to avoid being 'it' in this multiplayer-style game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/tag2.png"
+  },
+  {
+    "name": "Gladihoppers",
+    "type": "battle",
+    "image": "game-images/Gladihoppers.png",
+    "url": "https://hypackelgames.firebaseapp.com/files/gladihoppers/game.html",
+    "description": "A hilarious physics-based gladiator fighting game. Battle against other gladiators in the arena and become the champion.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/gladihopper.png"
+  },
+  {
+    "name": "Yarn",
+    "type": "platformer",
+    "image": "game-images/Yarn.jpeg",
+    "url": "https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/yarn-0.p8.png",
+    "description": "A charming retro platformer made with Pico-8. Play as a ball of yarn and navigate through a colorful and creative world.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/yarn.jpeg"
+  },
+  {
+    "name": "Picohot",
+    "type": "shooter",
+    "image": "game-images/Picohot.png",
+    "url": "https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/picohot-0.p8.png",
+    "description": "A Pico-8 demake of the popular first-person shooter where time moves only when you move. A stylish and strategic shooter.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/picohot.png"
+  },
+  {
+    "name": "Cell Machine",
+    "type": "puzzle",
+    "image": "game-images/Cell Machine.png",
+    "url": "https://lite.3kh0.net/projects/cell-machine/",
+    "description": "A logic puzzle game about building contraptions. Place different types of cells to create machines that solve each puzzle.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cellmachine.png"
+  },
+  {
+    "name": "Draw The Hill",
+    "type": "skill",
+    "image": "game-images/Draw The Hill.png",
+    "url": "https://lite.3kh0.net/projects/draw-the-hill/",
+    "description": "Draw your own road for your car to drive on. A creative and physics-based game where you must navigate your vehicle to the finish line.",
+    "original_image_url": "https://lite.3kh0.net/projects/draw-the-hill/icons/icon-512.png"
+  },
+  {
+    "name": "Hextris",
+    "type": "skill",
+    "image": "game-images/Hextris.png",
+    "url": "https://lite.3kh0.net/projects/hextris/",
+    "description": "A fast-paced hexagonal puzzle game. Rotate the hexagon to match colors and clear blocks before they stack up to the top.",
+    "original_image_url": "https://lite.3kh0.net/projects/hextris/images/hextris-logo.png"
+  },
+  {
+    "name": "Impossible Quiz",
+    "type": "other",
+    "image": "game-images/Impossible Quiz.png",
+    "url": "https://lite.3kh0.net/projects/impossiblequiz/",
+    "description": "A notoriously difficult quiz game full of trick questions and puns. Do you have what it takes to answer the impossible?",
+    "original_image_url": "https://lite.3kh0.net/projects/impossiblequiz/impossiblequiz.png"
+  },
+  {
+    "name": "Kitten Cannon",
+    "type": "other",
+    "image": "game-images/Kitten Cannon.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/kittencannon.swf",
+    "description": "Launch a kitten from a cannon and see how far it can go. Use various items and explosives to extend its flight in this classic casual game.",
+    "original_image_url": "https://lite.3kh0.net/projects/kittencannon/kittencannon.png"
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "type": "shooter",
+    "image": "game-images/Wolfenstein 3D.png",
+    "url": "https://lite.3kh0.net/projects/wolf3d/",
+    "description": "The legendary first-person shooter that pioneered the genre. Escape from a Nazi prison, fight guards, and take down the regime.",
+    "original_image_url": "https://lite.3kh0.net/projects/wolf3d/art/wolf3d.png"
+  },
+  {
+    "name": "Wordle",
+    "type": "puzzle",
+    "image": "game-images/Wordle.png",
+    "url": "https://lite.3kh0.net/projects/wordle/",
+    "description": "The viral word-guessing game. You have six attempts to guess a five-letter word. A new puzzle is available every day.",
+    "original_image_url": "https://lite.3kh0.net/projects/wordle/img/logo_512x512.png"
+  },
+  {
+    "name": "Beyond The Grave II",
+    "type": "battle",
+    "image": "game-images/Beyond The Grave II.png",
+    "url": "https://codingkitten-yt.github.io/quickmath/btg.html",
+    "description": "An action-packed battle game where you fight off hordes of undead enemies. Use a variety of weapons and abilities to survive.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/btg.png"
+  },
+  {
+    "name": "Run 2",
+    "type": "platformer",
+    "image": "game-images/Run 2.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/run2.swf",
+    "description": "The sequel to the popular running game. Explore new levels, characters, and challenges in this 3D platformer where you can run on walls and ceilings.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/run2.jpeg"
+  },
+  {
+    "name": "Vex",
+    "type": "platformer",
+    "image": "game-images/Vex.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex.swf&aspect=1:1",
+    "description": "The first game in the Vex series. A challenging stickman platformer where you must run, jump, and slide your way through deadly levels.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex1.jpeg"
+  },
+  {
+    "name": "Vex 2",
+    "type": "platformer",
+    "image": "game-images/Vex 2.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex2.swf&aspect=8:7",
+    "description": "More traps, more challenges, and more Vex action. The second installment brings new levels and obstacles to test your platforming skills.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex2.jpeg"
+  },
+  {
+    "name": "Vex 4",
+    "type": "platformer",
+    "image": "game-images/Vex 4.png",
+    "url": "https://math181124.github.io/g/class-567/",
+    "description": "A true test of precision and timing for platformer fans.",
+    "original_image_url": "https://math181124.github.io/img/class-567.png"
+  },
+  {
+    "name": "Vex 5",
+    "type": "platformer",
+    "image": "game-images/Vex 5.png",
+    "url": "https://math181124.github.io/g26/class-493/",
+    "description": "The fifth chapter in the Vex saga introduces new mechanics and challenges.",
+    "original_image_url": "https://math181124.github.io/img/class-493.png"
+  },
+  {
+    "name": "Vex 6",
+    "type": "platformer",
+    "image": "game-images/Vex 6.png",
+    "url": "https://math181124.github.io/g/class-809",
+    "description": "The latest installment of the Vex series is here!",
+    "original_image_url": "https://math181124.github.io/img/class-809.png"
+  },
+  {
+    "name": "Vex 7",
+    "type": "platformer",
+    "image": "game-images/Vex 7.png",
+    "url": "https://math181124.github.io/g/class-510",
+    "description": "The latest installment of the Vex series is here!",
+    "original_image_url": "https://math181124.github.io/img/class-510.png"
+  },
+  {
+    "name": "Hobo 1",
+    "type": "battle",
+    "image": "game-images/Hobo 1.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo1.swf",
+    "description": "Play as a hobo on a rampage in this classic beat 'em up game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo1.jpeg"
+  },
+  {
+    "name": "Hobo 2",
+    "type": "battle",
+    "image": "game-images/Hobo 2.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo2.swf",
+    "description": "The hobo is back and causing even more trouble.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo2.jpeg"
+  },
+  {
+    "name": "Hobo 3",
+    "type": "battle",
+    "image": "game-images/Hobo 3.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo3.swf",
+    "description": "After escaping from prison, our hobo hero is wanted by the army.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo3.jpeg"
+  },
+  {
+    "name": "Hobo 4",
+    "type": "battle",
+    "image": "game-images/Hobo 4.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo4.swf",
+    "description": "The hobo finds himself in a new country and continues his rampage.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo4.jpeg"
+  },
+  {
+    "name": "Hobo 5",
+    "type": "battle",
+    "image": "game-images/Hobo 5.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo5.swf",
+    "description": "The hobo finds himself in hell.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo5.jpeg"
+  },
+  {
+    "name": "Hobo 6",
+    "type": "battle",
+    "image": "game-images/Hobo 6.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo6.swf",
+    "description": "It's time to fight demons and other hellish creatures in Hobo 6: Hell.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo6.jpeg"
+  },
+  {
+    "name": "Hobo 7",
+    "type": "battle",
+    "image": "game-images/Hobo 7.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo7.swf",
+    "description": "The final chapter of the Hobo saga.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo7.jpeg"
+  },
+  {
+    "name": "Cut The Rope",
+    "type": "puzzle",
+    "image": "game-images/Cut The Rope.png",
+    "url": "https://lite.3kh0.net/projects/ctr/",
+    "description": "A physics-based puzzle game where you must cut ropes to feed candy to a cute little monster named Om Nom.",
+    "original_image_url": "https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png"
+  },
+  {
+    "name": "Cut The Rope Holliday",
+    "type": "puzzle",
+    "image": "game-images/Cut The Rope Holliday.webp",
+    "url": "https://lite.3kh0.net/projects/ctr-holiday/",
+    "description": "A festive edition of the popular puzzle game.",
+    "original_image_url": "https://lite.3kh0.net/projects/ctr-holiday/Holiday_Gift.webp"
+  },
+  {
+    "name": "Cut The Rope Time Travel",
+    "type": "puzzle",
+    "image": "game-images/Cut The Rope Time Travel.png",
+    "url": "https://lite.3kh0.net/projects/ctr-tr/",
+    "description": "Join Om Nom as he travels back in time to feed his ancestors with candy.",
+    "original_image_url": "https://lite.3kh0.net/projects/ctr-tr/logo.png"
+  },
+  {
+    "name": "Rising Lava",
+    "type": "platformer",
+    "image": "game-images/Rising Lava.png",
+    "url": "https://turbowarp.org/944715656/embed",
+    "description": "A fast-paced platformer where you must outrun rising lava.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/risinglava.png"
+  },
+  {
+    "name": "Virtua Racing",
+    "type": "racing",
+    "image": "game-images/Virtua Racing.png",
+    "url": "https://turbowarp.org/977543606/embed",
+    "description": "A classic arcade racing game with a distinctive polygonal art style.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/virtuaracing.png"
+  },
+  {
+    "name": "Prism",
+    "type": "puzzle",
+    "image": "game-images/Prism.png",
+    "url": "https://turbowarp.org/127030178/embed?hqpen",
+    "description": "A beautiful and relaxing puzzle game about light and color.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/prism.png"
+  },
+  {
+    "name": "Flappy Bird",
+    "type": "skill",
+    "image": "game-images/Flappy Bird.png",
+    "url": "https://jxmked.github.io/Flappybird/",
+    "description": "The infamously difficult one-button game.",
+    "original_image_url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png"
+  },
+  {
+    "name": "Eggy Car",
+    "type": "skill",
+    "image": "game-images/Eggy Car.jpeg",
+    "url": "https://labgstore311.github.io/g5/class-463",
+    "description": "A physics-based driving game with a fragile cargo.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/eggycar.jpeg"
+  },
+  {
+    "name": "OVO",
+    "type": "platformer",
+    "image": "game-images/OVO Dimensions.png",
+    "url": "https://ovo-modloader.github.io/versions/1.4.4b/index.html",
+    "description": "A fast-paced stickman platformer focused on parkour.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/ovo.jpeg"
+  },
+  {
+    "name": "Slope",
+    "type": "skill",
+    "image": "game-images/Slope 2.jpeg",
+    "url": "https://23azostore.github.io/s/slope",
+    "description": "A 3D endless runner where you control a ball rolling down a randomized slope.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/Slope.jpeg"
+  },
+  {
+    "name": "Monster Tracks",
+    "type": "racing",
+    "image": "game-images/Monster Tracks.jpeg",
+    "url": "https://23azostore.github.io/s5/monster-tracks",
+    "description": "Get ready for some off-road action in Monster Tracks.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/monstertrack.jpeg"
+  },
+  {
+    "name": "Doodle Jump",
+    "type": "skill",
+    "image": "game-images/Doodle Jump.png",
+    "url": "https://23azostore.github.io/s7/doodle-jump",
+    "description": "The classic endless jumper.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/doodle-removebg-preview.png"
+  },
+  {
+    "name": "Murder",
+    "type": "other",
+    "image": "game-images/Murder.png",
+    "url": "https://23azostore.github.io/s5/murder/",
+    "description": "A game of intrigue and assassination.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/murder.png"
+  },
+  {
+    "name": "Tomb of the mask",
+    "type": "skill",
+    "image": "game-images/Tomb of the mask.png",
+    "url": "https://23azostore.github.io/s8/tomb-of-the-mask/",
+    "description": "A fast-paced arcade game set in a vertical labyrinth.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/tombofthemask.png"
+  },
+  {
+    "name": "Moto X3M",
+    "type": "racing",
+    "image": "game-images/Moto X3M.jpeg",
+    "url": "https://lite.3kh0.net/projects/motox3m/",
+    "description": "A thrilling bike racing game with challenging levels and crazy stunts.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg"
+  },
+  {
+    "name": "Futbol11",
+    "type": "Skill",
+    "image": "game-images/Futbol11.png",
+    "url": "https://futbol-11.com/",
+    "newtab": true,
+    "description": "A realistic and engaging online soccer game.",
+    "original_image_url": "https://math181124.github.io/img/class-93.png"
+  },
+  {
+    "name": "Moto X3M Pool",
+    "type": "racing",
+    "image": "game-images/Moto X3M Pool.jpg",
+    "url": "https://lite.3kh0.net/projects/motox3m-pool/",
+    "description": "The bike racing action continues in a new poolside setting.",
+    "original_image_url": "https://lite.3kh0.net/projects/motox3m-pool/splash.jpg"
+  },
+  {
+    "name": "Moto X3M Spooky",
+    "type": "racing",
+    "image": "game-images/Moto X3M Spooky.jpeg",
+    "url": "https://lite.3kh0.net/projects/motox3m-spooky/",
+    "description": "Get ready for a spooky ride in this Halloween-themed edition of Moto X3M.",
+    "original_image_url": "https://lite.3kh0.net/projects/motox3m-spooky/splash.jpeg"
+  },
+  {
+    "name": "Moto X3M Winter",
+    "type": "racing",
+    "image": "game-images/Moto X3M Winter.jpeg",
+    "url": "https://lite.3kh0.net/projects/motox3m-winter/",
+    "description": "Race through a winter wonderland in Moto X3M Winter.",
+    "original_image_url": "https://lite.3kh0.net/projects/motox3m-winter/download.jpeg"
+  },
+  {
+    "name": "Cats",
+    "type": "battle",
+    "image": "game-images/Cats.jpeg",
+    "url": "https://23azostore.github.io/s4/cats/",
+    "description": "A fun and action-packed game where you build your own battle bot and fight against other players.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/cats.jpeg"
+  },
+  {
+    "name": "Tiny Fishing",
+    "type": "idle",
+    "image": "game-images/Tiny Fishing.jpeg",
+    "url": "https://23azostore.github.io/s/tiny-fishing/",
+    "description": "A relaxing and addictive fishing game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/tinyfishing.jpeg"
+  },
+  {
+    "name": "Drive Mad",
+    "type": "racing",
+    "image": "game-images/Drive Mad.jpeg",
+    "url": "https://ubg77.github.io/game131022/drive-mad/",
+    "description": "A physics-based driving game where you must navigate through challenging obstacle courses.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/drivemad.jpeg"
+  },
+  {
+    "name": "Bitlife",
+    "type": "idle",
+    "image": "game-images/Bitlife.png",
+    "url": "https://1727859.github.io/cyanidegames/bitlife/index.html",
+    "description": "A life simulation game where you can live out any life you can imagine.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bitlife.png"
+  },
+  {
+    "name": "Temple Run",
+    "type": "skill",
+    "image": "game-images/Temple Run 2.jpeg",
+    "url": "https://lite.3kh0.net/projects/temple-run-2/",
+    "description": "The original endless runner that took the world by storm.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/templerun.png"
+  },
+  {
+    "name": "HexGL",
+    "type": "racing",
+    "image": "game-images/HexGL.png",
+    "url": "https://lite.3kh0.net/projects/HexGL/",
+    "description": "A futuristic, fast-paced racing game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/HexGL.png"
+  },
+  {
+    "name": "Cube Field",
+    "type": "skill",
+    "image": "game-images/Cube Field.jpeg",
+    "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=cubefield.swf",
+    "description": "A simple yet addictive avoidance game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/cubefield.jpeg"
+  },
+  {
+    "name": "Tetris",
+    "type": "puzzle",
+    "image": "game-images/Tetris.jpeg",
+    "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=tetris.swf",
+    "description": "The timeless puzzle game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/tetris.jpeg"
+  },
+  {
+    "name": "2048",
+    "type": "skill",
+    "image": "game-images/2048.png",
+    "url": "https://binbashbanana.github.io/gfiles/gfiles/html5/2048/",
+    "description": "A sliding puzzle game where you combine numbered tiles to reach the elusive 2048 tile.",
+    "original_image_url": "https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png"
+  },
+  {
+    "name": "Jack Smith",
+    "type": "idle",
+    "image": "game-images/Jack Smith.jpeg",
+    "url": "https://gamez-ebon.vercel.app/jacksmith/jacksmith.html",
+    "description": "A crafting and time-management game where you play as a blacksmith.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/jacksmith.jpeg"
+  },
+  {
+    "name": "Time Shooter 2",
+    "type": "shooter",
+    "image": "game-images/Time Shooter 2.png",
+    "url": "https://gamez-ebon.vercel.app/time-shooter-2/ts2.html",
+    "description": "A first-person shooter where time moves only when you do.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/timeshooter-removebg-preview.png"
+  },
+  {
+    "name": "Happy Wheels",
+    "type": "skill",
+    "image": "game-images/Happy Wheels.jpeg",
+    "url": "https://gamez-ebon.vercel.app/happywheels/",
+    "description": "A hilarious and often brutal physics-based game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/happywheel.jpeg"
+  },
+  {
+    "name": "CircloO",
+    "type": "puzzle",
+    "image": "game-images/CircloO.png",
+    "url": "https://glcdn.githack.com/3kh0/3kh0-assets/-/raw/main/circlo/index.html",
+    "description": "A physics-based puzzle game where you control a ball in a circular level.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/circloo.png"
+  },
+  {
+    "name": "Champion Island",
+    "type": "skill",
+    "image": "game-images/Champion Island.jpg",
+    "url": "https://www.google.com/logos/2020/kitsune/rc7/kitsune20.html",
+    "newtab": true,
+    "description": "A retro-style sports RPG.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/championisland.jpg"
+  },
+  {
+    "name": "Garden Gnomes",
+    "type": "skill",
+    "image": "game-images/Garden Gnomes.png",
+    "url": "https://www.google.com/logos/2018/gnomes/gnomes18.html",
+    "newtab": true,
+    "description": "A charming and addictive distance game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/gardengnome.png"
+  },
+  {
+    "name": "Say what you see!",
+    "type": "other",
+    "image": "game-images/Say what you see!.png",
+    "url": "https://artsandculture.google.com/incognito/experiment/jwG3m7wQShZngw",
+    "newtab": true,
+    "description": "A fun and challenging puzzle game where you decipher rebus puzzles.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/SayWhatYOuSee.png"
+  },
+  {
+    "name": "Sandboxels",
+    "type": "other",
+    "image": "game-images/Sandboxels.png",
+    "url": "https://sandboxels.r74n.com",
+    "newtab": true,
+    "description": "A relaxing and creative falling-sand game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/sandboxels.png"
+  },
+  {
+    "name": "Fluid Simulation",
+    "type": "other",
+    "image": "game-images/Fluid Simulation.png",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+    "description": "A beautiful and interactive fluid simulation.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/fluids.png"
+  },
+  {
+    "name": "Snake",
+    "type": "skill",
+    "image": "game-images/Snake.png",
+    "url": "https://codingkitten-yt.github.io/alu-games/google-snake/",
+    "description": "The classic game of Snake.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/snake.webp"
+  },
+  {
+    "name": "Super Mario Bros",
+    "type": "platformer",
+    "image": "game-images/Super Mario Bros.png",
+    "url": "https://codingkitten-yt.github.io/retrogames/Mario.html",
+    "description": "The legendary platformer that defined a generation.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/MarioBros.png"
+  },
+  {
+    "name": "Mario Kart 64",
+    "type": "racing",
+    "image": "game-images/Mario Kart 64.jpeg",
+    "url": "https://codingkitten-yt.github.io/retrogames/MarioKart64.html",
+    "description": "The classic kart racing game from the Nintendo 64.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/mariokart64.jpeg"
+  },
+  {
+    "name": "Ice Cube Smash",
+    "type": "skill",
+    "image": "game-images/Ice Cube Smash.png",
+    "url": "https://codingkitten-yt.github.io/quickmath/cube.html",
+    "description": "A cool and refreshing arcade game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/icecubesmash.png"
+  },
+  {
+    "name": "Incredibox",
+    "type": "other",
+    "image": "game-images/Incredibox.png",
+    "url": "https://joalor64gh.github.io/IncrediboxOpenSource/",
+    "description": "A music-making game where you can create your own beats with a merry crew of beatboxers.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/incredibox.png"
+  },
+  {
+    "name": "Death Run",
+    "type": "skill",
+    "image": "game-images/Death Run.png",
+    "url": "https://codingkitten-yt.github.io/alu-games/death-run-3d/",
+    "description": "A true test of your reflexes and timing.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/death-run.png"
+  },
+  {
+    "name": "Chrome Dino",
+    "type": "skill",
+    "image": "game-images/Chrome Dino.png",
+    "url": "https://codingkitten-yt.github.io/alu-games/chrome-dino/",
+    "description": "The classic endless runner game you play when you're offline.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/chrome-dino.png"
+  },
+  {
+    "name": "Monkey Mart",
+    "type": "idle",
+    "image": "game-images/Monkey Mart.jpeg",
+    "url": "https://glcdn.githack.com/3kh0/3kh0-assets/-/raw/main/MonkeyMart/index.html",
+    "description": "Manage your own supermarket in this fun and cute idle game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/monkeymart.jpeg"
+  },
+  {
+    "name": "Gun Mayhem",
+    "type": "battle",
+    "image": "game-images/Gun Mayhem.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/gunmayhem.swf",
+    "description": "A fast-paced and chaotic platform shooter.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/gunmayham.jpeg"
+  },
+  {
+    "name": "Bloons",
+    "type": "idle",
+    "image": "game-images/Bloons TD 4.jpg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Bloons.swf",
+    "description": "The original balloon-popping puzzle game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons.jpeg"
+  },
+  {
+    "name": "Bad Piggies",
+    "type": "puzzle",
+    "image": "game-images/Bad Piggies.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/selenite-old/main/badpiggies/badpiggies.swf",
+    "description": "A creative physics-based puzzle game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/badpiggies.jpeg"
+  },
+  {
+    "name": "Minesweeper",
+    "type": "puzzle",
+    "image": "game-images/Minesweeper.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Minesweeper.swf",
+    "description": "The classic logic puzzle game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/minesweeper.png"
+  },
+  {
+    "name": "Swords and Souls",
+    "type": "idle",
+    "image": "game-images/Swords and Souls.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/swordssouls.swf",
+    "description": "A fun and addictive RPG with a unique training system.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/swordsandsouls.png"
+  },
+  {
+    "name": "Rogue Soul",
+    "type": "skill",
+    "image": "game-images/Rogue Soul.jpg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/roguesoul.swf",
+    "description": "A stylish endless runner game.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/rogue-soul-3224987978.jpg"
+  },
+  {
+    "name": "Rogue Soul 2",
+    "type": "skill",
+    "image": "game-images/Rogue Soul 2.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/roguesoul2.swf",
+    "description": "The adventure continues in Rogue Soul 2.",
+    "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/rogue-soul-2-3755977449.png"
+  },
+  {
+    "name": "Geometry Dash",
+    "type": "platformer",
+    "image": "game-images/goemtrydash.png",
+    "url": "https://tataedu23.github.io/g26/class-453/",
+    "description": "A fast-paced platformer game with rhythm-based gameplay. Jump, fly, and flip your way through dangerous passages and spiky obstacles in this challenging and addictive game.",
+    "original_image_url": "game-images/goemtrydash.png"
+  }
+]

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Games - Unblocked Games GG</title>
+    <meta name="description" content="View and manage your favorite unblocked games. Play your saved games instantly without any restrictions.">
+    <meta name="keywords" content="favorite games, saved games, unblocked games, free games, online games, browser games">
+    <meta name="author" content="Unblocked Games GG">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow">
+    <meta name="bingbot" content="index, follow">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://unblockedgamesgg.com/favorites.html">
+    
+    <!-- Additional SEO Meta Tags -->
+    <meta name="theme-color" content="#2ea043">
+    <meta name="msapplication-TileColor" content="#2ea043">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Unblocked Games GG">
+    
+    <!-- Language and content targeting -->
+    <meta name="language" content="English">
+    <meta name="content-language" content="en-US">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://unblockedgamesgg.com/favorites.html">
+    <meta property="og:title" content="My Favorite Games - Unblocked Games GG">
+    <meta property="og:description" content="View and manage your favorite unblocked games. Play your saved games instantly without any restrictions.">
+    <meta property="og:image" content="https://unblockedgamesgg.com/icons/UNBLOCKED-GAMES-GG.png">
+    <meta property="og:site_name" content="Unblocked Games GG">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://unblockedgamesgg.com/favorites.html">
+    <meta property="twitter:title" content="My Favorite Games - Unblocked Games GG">
+    <meta property="twitter:description" content="View and manage your favorite unblocked games. Play your saved games instantly without any restrictions.">
+    <meta property="twitter:image" content="https://unblockedgamesgg.com/icons/UNBLOCKED-GAMES-GG.png">
+    
+    <!-- Preload critical resources -->
+    <link rel="preload" href="style.css" as="style">
+    <link rel="preload" href="games.json" as="fetch" crossorigin>
+    
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="icons/fav.png" type="image/png">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="logo">
+                <a href="index.html" class="logo-link">
+                    <img src="icons/UNBLOCKED-GAMES-GG.png" alt="Unblocked Games GG" class="logo-img">
+                </a>
+            </div>
+            <nav>
+                <h2>Categories</h2>
+                <ul id="categories">
+                    <!-- Categories will be populated by JavaScript -->
+                </ul>
+            </nav>
+        </aside>
+        <main class="main-content">
+            <header>
+                <div class="header-content">
+                    <div class="header-nav">
+                        <a href="index.html">Home</a>
+                        <a href="favorites.html">Favorites</a>
+                        <a href="legal.html">Legal</a>
+                    </div>
+                    <div id="header-actions">
+                        <input type="text" id="search-bar" placeholder="Search your favorite games...">
+                    </div>
+                </div>
+            </header>
+
+            <div class="site-description">
+                <h1>My Favorite Games ❤️</h1>
+                <p>Here are all the games you've marked as favorites. Click on any game to play it instantly!</p>
+            </div>
+
+            <section id="favorites-section">
+                <h2>Your Favorite Games</h2>
+                <div class="games-grid" id="favorites-grid">
+                    <!-- Favorite games will be populated by JavaScript -->
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="components.js"></script>
+    <script src="favorites.js"></script>
+</body>
+</html> 
