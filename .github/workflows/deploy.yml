@@ -1,28 +1,24 @@
-name: Deploy to GitHub Pages
+name: Secure Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main, master ]
-  pull_request:
     branches: [ main, master ]
   workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 # Allow only one concurrent deployment
 concurrency:
-  group: "pages"
+  group: "deploy"
   cancel-in-progress: false
 
 jobs:
-  # Build job
-  build:
+  # Build and Deploy job
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout private repository
         uses: actions/checkout@v4
         
       - name: Setup Node.js
@@ -37,23 +33,17 @@ jobs:
       - name: Build website
         run: npm run build
         
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4 
+      - name: Deploy to public repository
+        env:
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          PUBLIC_REPO: unblcked-gg-games/unblcked-gg-games.github.io
+        run: |
+          cd dist
+          git init
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Deploy website - $(date '+%Y-%m-%d %H:%M:%S')"
+          git branch -M main
+          git remote add origin https://${DEPLOY_TOKEN}@github.com/${PUBLIC_REPO}.git
+          git push -f origin main 
