@@ -160,4 +160,4 @@ public/
 # Uncomment these when setting up private repo:
 # games.json
 # performance-monitor.js
-# components.js 
+# components.js .cursor/
