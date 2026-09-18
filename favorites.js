@@ -55,7 +55,12 @@ document.addEventListener('DOMContentLoaded', function() {
         const card = document.createElement('div');
         card.className = 'game-card';
         card.addEventListener('click', () => {
-            window.location.href = `game.html?name=${encodeURIComponent(game.name)}`;
+            if (window.getGameUrl) {
+                window.location.href = window.getGameUrl(game);
+            } else {
+                const slug = game.name.toLowerCase().trim().replace(/&/g, '-and-').replace(/[\s\W-]+/g, '-').replace(/^-+|-+$/g, '');
+                window.location.href = `games/${slug}/`;
+            }
         });
 
         const img = document.createElement('img');

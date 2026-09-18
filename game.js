@@ -82,8 +82,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Enhanced SEO meta tag updates
     function updatePageSEO(game) {
-        const title = `Play ${game.name} - Free Online Game | Unblocked Games GG`;
-        const description = game.description || `Play ${game.name} for free online. ${game.type} game available instantly in your browser - no downloads required!`;
+        const title = `${game.name} - Unblocked gg`;
+        let description = game.description 
+            ? game.description.trim() 
+            : `Play ${game.name} unblocked for free. Instant ${game.type || 'browser'} game online with no downloads.`;
+        if (description.length > 160) {
+            description = description.slice(0, 157).trim() + '...';
+        }
         
         document.title = title;
         

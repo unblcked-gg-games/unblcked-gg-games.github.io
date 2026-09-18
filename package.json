@@ -1,0 +1,12 @@
+{
+  "name": "unblocked-gg-games",
+  "version": "1.0.0",
+  "description": "Unblocked Games GG static site builder and SEO optimizer",
+  "scripts": {
+    "build": "node build.js",
+    "start": "npx serve ."
+  },
+  "keywords": ["games", "unblocked", "static-site-generator"],
+  "author": "Unblocked Games GG",
+  "license": "MIT"
+}

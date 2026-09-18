@@ -15,7 +15,18 @@
     <meta name="msvalidate.01" content="9D16E596AD3A0F95BC6DE3E03A96BAC0" />
     <meta name="yandex-verification" content="ebfb372ffce7edb2" />
     
-    <!-- Canonical URL - Will be updated by JavaScript -->
+    <script>
+    (function() {
+        var params = new URLSearchParams(window.location.search);
+        var name = params.get('name');
+        if (name) {
+            var slug = name.toString().toLowerCase().trim().replace(/&/g, '-and-').replace(/[\s\W-]+/g, '-').replace(/^-+|-+$/g, '');
+            window.location.replace('games/' + slug + '/');
+        }
+    })();
+    </script>
+    
+    <!-- Canonical URL -->
     <link rel="canonical" href="https://unblcked-gg-games.github.io/game.html" id="canonical-url">
     
     <!-- Additional SEO Meta Tags -->

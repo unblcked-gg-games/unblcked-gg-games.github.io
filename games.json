@@ -1,5 +1,439 @@
 [
   {
+    "name": "9007199254740992",
+    "type": "puzzle",
+    "image": "projects/9007199254740992/logo-4.png",
+    "url": "projects/9007199254740992/index.html",
+    "description": "A mind-bending numerical puzzle game inspired by 2048 where your goal is to reach the ultimate number 9007199254740992."
+  },
+  {
+    "name": "A Small World Cup",
+    "type": "sport",
+    "image": "projects/a-small-world-cup/a-small-world-cup.png",
+    "url": "projects/a-small-world-cup/index.html",
+    "description": "Fast-paced, ragdoll 2-player soccer game where you smash your player against the ball to score goals in tournaments!"
+  },
+  {
+    "name": "Ages of Conflict",
+    "type": "simulation",
+    "image": "projects/ages-of-conflict/splash.jpg",
+    "url": "projects/ages-of-conflict/index.html",
+    "description": "A fun world map simulation game where you observe or spawn custom nations and watch them battle and conquer territory."
+  },
+  {
+    "name": "Baldi's Basics",
+    "type": "action",
+    "image": "projects/baldis-basics/baldis-basics.png",
+    "url": "projects/baldis-basics/index.html",
+    "description": "Enter Baldi's schoolhouse, collect all 7 notebooks, and solve crazy math problems while avoiding teacher Baldi!"
+  },
+  {
+    "name": "Ball Sort Puzzle",
+    "type": "puzzle",
+    "image": "projects/ball-sort-puzzle/thumb.png",
+    "url": "projects/ball-sort-puzzle/index.html",
+    "description": "A relaxing and addictive color sorting puzzle game. Sort colored balls into tubes until all colors are together."
+  },
+  {
+    "name": "Basket and Ball",
+    "type": "skill",
+    "image": "projects/basket-and-ball/thumb.jpg",
+    "url": "projects/basket-and-ball/index.html",
+    "description": "Guide a bouncing basketball through challenging obstacle courses and make epic slam dunks into the basket."
+  },
+  {
+    "name": "Blackjack",
+    "type": "board",
+    "image": "projects/blackjack/thumb.png",
+    "url": "projects/blackjack/index.html",
+    "description": "Classic 21 blackjack card game. Place your bets, hit or stand, and try to beat the dealer without busting."
+  },
+  {
+    "name": "Block The Pig",
+    "type": "puzzle",
+    "image": "projects/block-the-pig/thumb.png",
+    "url": "projects/block-the-pig/index.html",
+    "description": "A hexagonal turn-based puzzle game where you place stone blocks to prevent an escaping pig from reaching the edge."
+  },
+  {
+    "name": "Cookie Clicker",
+    "type": "idle",
+    "image": "projects/cookie-clicker/cookie1.jpeg",
+    "url": "projects/cookie-clicker/index.html",
+    "description": "The legendary idle clicker game! Bake trillions of cookies by clicking, buying grandmas, farms, factories, and portals."
+  },
+  {
+    "name": "Core Ball",
+    "type": "skill",
+    "image": "projects/core-ball/pr_source.png",
+    "url": "projects/core-ball/index.html",
+    "description": "Test your timing and reflexes! Shoot small balls into a rotating central core without hitting existing pins."
+  },
+  {
+    "name": "Crazy Cattle 3D",
+    "type": "action",
+    "image": "projects/crazy-cattle-3d/CrazyCattle3D.icon.png",
+    "url": "projects/crazy-cattle-3d/index.html",
+    "description": "Control funny 3D cattle in chaotic challenges across colorful arenas."
+  },
+  {
+    "name": "Cut the Rope: Time Travel",
+    "type": "puzzle",
+    "image": "projects/ctr-time-travel/thumb.png",
+    "url": "projects/ctr-time-travel/index.html",
+    "description": "Join Om Nom as he travels back in time to feed his ancestors candy in delightful physics-based puzzles."
+  },
+  {
+    "name": "Death Run 3D",
+    "type": "action",
+    "image": "projects/death-run-3d/img/death.png",
+    "url": "projects/death-run-3d/index.html",
+    "description": "An adrenaline-pumping, fast-paced first-person tunnel racer. Dodge neon obstacles at blinding speeds!"
+  },
+  {
+    "name": "Drift Boss",
+    "type": "racing",
+    "image": "projects/drift-boss/drift-boss.png",
+    "url": "projects/drift-boss/index.html",
+    "description": "An addictive one-button drifting game. Time your turns precisely to drift around tricky corners on narrow roads."
+  },
+  {
+    "name": "Drift Hunters",
+    "type": "racing",
+    "image": "projects/drift-hunters/thumb.png",
+    "url": "projects/drift-hunters/index.html",
+    "description": "The ultimate 3D car drifting simulator with realistic physics, custom tuning, and tons of race tracks."
+  },
+  {
+    "name": "Edge Surf",
+    "type": "skill",
+    "image": "projects/edge-surf/icons/icon-256.png",
+    "url": "projects/edge-surf/index.html",
+    "description": "The classic browser surf game! Dodge sea monsters, rocks, and obstacles while surfing endless waves."
+  },
+  {
+    "name": "Fireboy and Watergirl: Forest Temple",
+    "type": "adventure",
+    "image": "projects/fireboy-and-watergirl-1/thumb.jpeg",
+    "url": "projects/fireboy-and-watergirl-1/index.html",
+    "description": "The first chapter of the famous cooperative adventure! Control Fireboy and Watergirl to solve temple puzzles."
+  },
+  {
+    "name": "Five Nights at Freddy's",
+    "type": "action",
+    "image": "projects/fnaf-1/favicon.png",
+    "url": "projects/fnaf-1/index.html",
+    "description": "Survive the night shift as a security guard at Freddy Fazbear's Pizza while monitoring creepy animatronics."
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "type": "action",
+    "image": "projects/fnaf-2/fnaf-2.jpg",
+    "url": "projects/fnaf-2/index.html",
+    "description": "Return to Freddy Fazbear's Pizza with new animatronics, flashlight mechanics, and a Freddy mask to survive."
+  },
+  {
+    "name": "Five Nights at Freddy's 3",
+    "type": "action",
+    "image": "projects/fnaf-3/fnaf-3.png",
+    "url": "projects/fnaf-3/index.html",
+    "description": "Thirty years later at Fazbear's Fright horror attraction, survive against Springtrap by managing audio and ventilation systems."
+  },
+  {
+    "name": "Five Nights at Freddy's 4",
+    "type": "action",
+    "image": "projects/fnaf-4/thumb.png",
+    "url": "projects/fnaf-4/index.html",
+    "description": "The fearsome final chapter of original FNAF. Defend yourself in your bedroom against nightmare animatronics using only a flashlight."
+  },
+  {
+    "name": "Five Nights at Freddy's: Sister Location",
+    "type": "action",
+    "image": "projects/fnaf-5/favicon.jpg",
+    "url": "projects/fnaf-5/index.html",
+    "description": "Explore Circus Baby's Entertainment and Rental as a late-night technician dealing with advanced interactive animatronics."
+  },
+  {
+    "name": "Ultimate Custom Night",
+    "type": "action",
+    "image": "projects/fnaf-ucn/thumb.png",
+    "url": "projects/fnaf-ucn/index.html",
+    "description": "The ultimate FNAF mashup! Customize 50 selectable animatronic characters and set their difficulty from 0 to 20."
+  },
+  {
+    "name": "Geometry Dash Classic",
+    "type": "platformer",
+    "image": "projects/geodash/geoscratchicon.png",
+    "url": "projects/geodash/index.html",
+    "description": "Rhythm-based platformer where you jump, fly, and flip your way through dangerous obstacles to electronic beats."
+  },
+  {
+    "name": "Geometry Dash SubZero",
+    "type": "platformer",
+    "image": "projects/geodash-subzero/geodash-subzero.png",
+    "url": "projects/geodash-subzero/index.html",
+    "description": "Chill with sparkling beats in Geometry Dash SubZero featuring exclusive levels and winter soundtracks."
+  },
+  {
+    "name": "Google Feud",
+    "type": "trivia",
+    "image": "projects/google-feud/splash.png",
+    "url": "projects/google-feud/index.html",
+    "description": "A hilarious trivia game where you try to guess the most popular Google autocomplete search queries."
+  },
+  {
+    "name": "Google Snake",
+    "type": "classic",
+    "image": "projects/google-snake/google-snake.png",
+    "url": "projects/google-snake/index.html",
+    "description": "The beloved modern Google Snake game! Eat apples, grow longer, and choose from custom modes and fruit options."
+  },
+  {
+    "name": "Idle Breakout",
+    "type": "idle",
+    "image": "projects/idle-breakout/thumb.png",
+    "url": "projects/idle-breakout/index.html",
+    "description": "An addictive clicker twist on classic Atari Breakout. Buy bouncy balls with unique powers to destroy numbered bricks."
+  },
+  {
+    "name": "Madalin Stunt Cars 2",
+    "type": "racing",
+    "image": "projects/madalin-stunt-cars-2/img/logo.jpg",
+    "url": "projects/madalin-stunt-cars-2/index.html",
+    "description": "Incredible 3D supercar stunt driving game featuring massive loops, ramps, and multiplayer open-world stunt arenas."
+  },
+  {
+    "name": "Madalin Stunt Cars 3",
+    "type": "racing",
+    "image": "projects/madalin-stunt-cars-3/img/index.jpg",
+    "url": "projects/madalin-stunt-cars-3/index.html",
+    "description": "The expanded sequel with improved multiplayer, realistic car handling, and extreme stunt tracks."
+  },
+  {
+    "name": "Super Mario Bros Classic",
+    "type": "platformer",
+    "image": "projects/mario/Theme/Mario.jpg",
+    "url": "projects/mario/index.html",
+    "description": "Play the timeless original Nintendo Super Mario Bros directly in your browser. Jump on Goombas and rescue Princess Peach!"
+  },
+  {
+    "name": "Minecraft Classic",
+    "type": "adventure",
+    "image": "projects/minecraft/thumb.png",
+    "url": "projects/minecraft/index.html",
+    "description": "Build, explore, and create in the iconic voxel sandbox world of Minecraft directly in your web browser."
+  },
+  {
+    "name": "Moto X3M 2",
+    "type": "racing",
+    "image": "projects/moto-x3m-2/moto-x3m-2.png",
+    "url": "projects/moto-x3m-2/index.html",
+    "description": "Perform insane backflips and frontflips across hazardous obstacle courses in Moto X3M 2."
+  },
+  {
+    "name": "Microsoft Solitaire",
+    "type": "board",
+    "image": "projects/ms-solitaire/Fablenews.png",
+    "url": "projects/ms-solitaire/index.html",
+    "description": "The official collection of timeless Microsoft Solitaire card games including Klondike, Spider, and FreeCell."
+  },
+  {
+    "name": "OVO 2",
+    "type": "platformer",
+    "image": "projects/ovo-2/ovo-2.png",
+    "url": "projects/ovo-2/index.html",
+    "description": "The fast-paced sequel to OvO with slick parkour mechanics, wall jumps, diving, and speedrun challenges."
+  },
+  {
+    "name": "Pac-Man Classic",
+    "type": "classic",
+    "image": "projects/pacman/thumbnail.png",
+    "url": "projects/pacman/index.html",
+    "description": "Chomp pellets, avoid Blinky, Pinky, Inky, and Clyde, and grab Power Pellets in the official arcade classic Pac-Man!"
+  },
+  {
+    "name": "Paper.io 2",
+    "type": "multiplayer",
+    "image": "projects/paperio2/images/logo.png",
+    "url": "projects/paperio2/index.html",
+    "description": "Conquer as much territory as possible by drawing trails and closing loops in this intense multiplayer arena game."
+  },
+  {
+    "name": "Papery Planes",
+    "type": "skill",
+    "image": "projects/papery-planes/splash.jpg",
+    "url": "projects/papery-planes/index.html",
+    "description": "Glide a charming paper airplane through serene low-poly environments while collecting stars."
+  },
+  {
+    "name": "Project Sand",
+    "type": "simulation",
+    "image": "projects/project-sand/assets/thumb.png",
+    "url": "projects/project-sand/index.html",
+    "description": "A captivating falling sand physics sandbox. Experiment with sand, water, fire, plant, and acid reactions."
+  },
+  {
+    "name": "Retro Bowl",
+    "type": "sport",
+    "image": "projects/retro-bowl/img/icon.jpg",
+    "url": "projects/retro-bowl/index.html",
+    "description": "The smash-hit 8-bit American football game! Manage your roster, call plays, and lead your franchise to glory."
+  },
+  {
+    "name": "Retro Bowl College",
+    "type": "sport",
+    "image": "projects/retro-bowl-college/unnamed.png",
+    "url": "projects/retro-bowl-college/index.html",
+    "description": "Take charge of your favorite college football team, recruit top high school prospects, and compete for national championships."
+  },
+  {
+    "name": "Rocketpult",
+    "type": "skill",
+    "image": "projects/rocketpult/rocketpult.png",
+    "url": "projects/rocketpult/index.html",
+    "description": "Launch rockets, adjust your trajectories, and cause explosive chain reactions across targets."
+  },
+  {
+    "name": "Rooftop Snipers",
+    "type": "action",
+    "image": "projects/rooftop-snipers/Logo.png",
+    "url": "projects/rooftop-snipers/index.html",
+    "description": "Hilarious two-button ragdoll sniper duel. Shoot your opponent off the roof before they knock you down!"
+  },
+  {
+    "name": "Sandtrix",
+    "type": "puzzle",
+    "image": "projects/sandtrix/thumb.png",
+    "url": "projects/sandtrix/index.html",
+    "description": "A mesmerizing fusion of Tetris and falling sand physics. Clear blocks by letting sand settle into matching color rows."
+  },
+  {
+    "name": "Save the Doge",
+    "type": "puzzle",
+    "image": "projects/save-the-doge/thumb.png",
+    "url": "projects/save-the-doge/index.html",
+    "description": "Draw lines on the screen to shield the cute doge from aggressive bee attacks for 10 seconds."
+  },
+  {
+    "name": "Smash Karts",
+    "type": "multiplayer",
+    "image": "projects/smash-karts/smash-karts.png",
+    "url": "projects/smash-karts/index.html",
+    "description": "3D multiplayer kart battle game! Drive fast, pick up rocket launchers and mines, and blast rival karts."
+  },
+  {
+    "name": "Snail Bob 1",
+    "type": "puzzle",
+    "image": "projects/snail-bob/snail-bob.png",
+    "url": "projects/snail-bob/index.html",
+    "description": "Help Snail Bob navigate construction hazards by pressing buttons, flipping levers, and clearing safe paths."
+  },
+  {
+    "name": "Snail Bob 2",
+    "type": "puzzle",
+    "image": "projects/snail-bob-2/snail-bob-2.png",
+    "url": "projects/snail-bob-2/index.html",
+    "description": "Guide Snail Bob through dangerous forests on his journey to deliver a birthday gift to his grandpa."
+  },
+  {
+    "name": "Snail Bob 3: Egypt Journey",
+    "type": "puzzle",
+    "image": "projects/snail-bob-3/snail-bob-3.png",
+    "url": "projects/snail-bob-3/index.html",
+    "description": "Travel back to ancient Egypt with Snail Bob to uncover hidden pharaoh treasures and solve pyramid puzzles."
+  },
+  {
+    "name": "Snail Bob 4: Space",
+    "type": "puzzle",
+    "image": "projects/snail-bob-4/snail-bob-4.png",
+    "url": "projects/snail-bob-4/index.html",
+    "description": "Launch Snail Bob into outer space with low-gravity physics, spacesuits, and alien puzzles."
+  },
+  {
+    "name": "Snail Bob 5: Love Story",
+    "type": "puzzle",
+    "image": "projects/snail-bob-5/snail-bob-5.jpg",
+    "url": "projects/snail-bob-5/index.html",
+    "description": "Help Snail Bob journey through a romantic forest to find the love of his life."
+  },
+  {
+    "name": "Snail Bob 6: Winter Story",
+    "type": "puzzle",
+    "image": "projects/snail-bob-6/snail-bob-6.png",
+    "url": "projects/snail-bob-6/index.html",
+    "description": "Save Santa and Christmas in a snowy holiday adventure full of icy puzzles and festive surprises."
+  },
+  {
+    "name": "Snail Bob 7: Fantasy Story",
+    "type": "puzzle",
+    "image": "projects/snail-bob-7/snail-bob-7.jpg",
+    "url": "projects/snail-bob-7/index.html",
+    "description": "Step into a fantasy realm full of dragons, magic portals, and castles with Snail Bob."
+  },
+  {
+    "name": "Snail Bob 8: Island Story",
+    "type": "puzzle",
+    "image": "projects/snail-bob-8/snail-bob-8.jpg",
+    "url": "projects/snail-bob-8/index.html",
+    "description": "Stranded on a mysterious island! Help Snail Bob navigate tropical dangers and friendly natives."
+  },
+  {
+    "name": "Soccer Random",
+    "type": "sport",
+    "image": "projects/soccer-random/unnamed.png",
+    "url": "projects/soccer-random/index.html",
+    "description": "Hilarious one-button ragdoll soccer. Score 5 goals across ever-changing fields, balls, and weather conditions."
+  },
+  {
+    "name": "Classic Solitaire",
+    "type": "board",
+    "image": "projects/solitaire/screen-shot-win.png",
+    "url": "projects/solitaire/index.html",
+    "description": "The classic Klondike solitaire card game. Stack cards in descending order with alternating colors."
+  },
+  {
+    "name": "Stack",
+    "type": "skill",
+    "image": "projects/stack/icon.png",
+    "url": "projects/stack/index.html",
+    "description": "Stack blocks as high as you can! Trim overhangs with precision timing and see how high a tower you can build."
+  },
+  {
+    "name": "Subway Surfers: San Francisco",
+    "type": "action",
+    "image": "projects/subway-surfers-san-francisco/img/splash.png",
+    "url": "projects/subway-surfers-san-francisco/index.html",
+    "description": "Dash and dodge oncoming trains, streetcars, and the grumpy inspector across sunny San Francisco!"
+  },
+  {
+    "name": "Subway Surfers Classic",
+    "type": "action",
+    "image": "projects/subway-surfers-san-francisco/img/splash.png",
+    "url": "projects/subway-surfers-unity/index.html",
+    "description": "The world-famous endless runner! Grind trains, surf hoverboards, and collect coins in full 3D."
+  },
+  {
+    "name": "Vex 3",
+    "type": "platformer",
+    "image": "projects/vex3/vex3.png",
+    "url": "projects/vex3/index.html",
+    "description": "Survive deadly spikes, spinning saw blades, and treacherous platforms in this intense stickman parkour game."
+  },
+  {
+    "name": "Waterworks!",
+    "type": "puzzle",
+    "image": "projects/waterworks/thumb.png",
+    "url": "projects/waterworks/index.html",
+    "description": "Connect pipes and valves in this charming medieval puzzle strategy game to distribute fresh water to the city."
+  },
+  {
+    "name": "We Become What We Behold",
+    "type": "simulation",
+    "image": "projects/wbwwb/thumb.png",
+    "url": "projects/wbwwb/index.html",
+    "description": "A poignant 5-minute game about news, social media, and how capturing tiny moments can reshape a whole society."
+  },
+  {
     "name": "Cow Bay",
     "type": "idle",
     "image": "game-images/Cow Bay.png",
@@ -44,7 +478,7 @@
     "name": "Eaglercraft",
     "type": "skill",
     "image": "game-images/Eaglercraft.jpeg",
-    "url": "https://irv77.github.io/AmplerLauncher/",
+    "url": "projects/eaglercraft/index.html",
     "description": "Explore a blocky, procedurally generated 3D world. Mine resources, craft tools, and build structures in this creative sandbox game.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/eaglercraft.jpeg"
   },
@@ -228,7 +662,7 @@
     "name": "Little Alchemy 2",
     "type": "Puzzle",
     "image": "game-images/Little Alchemy 2.jpeg",
-    "url": "https://only-games.github.io/projects/little-alchemy/index.html",
+    "url": "projects/little-alchemy/index.html",
     "description": "Start with four basic items and combine them to discover hundreds of new ones. A simple yet deep crafting game of creativity and discovery.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/little.jpeg"
   },
@@ -276,7 +710,7 @@
     "name": "Among Us",
     "type": "Multiplayer",
     "image": "game-images/Among Us.jpg",
-    "url": "https://kittengames.github.io/mogus/",
+    "url": "projects/among-us/index.html",
     "description": "A game of teamwork and betrayal. Work together to complete tasks on a spaceship, but beware of the impostor among you whose goal is to eliminate everyone.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/mogus.jpg"
   },
@@ -364,7 +798,7 @@
     "name": "Banana Poker",
     "type": "Skill",
     "image": "game-images/Banana Poker.jpeg",
-    "url": "https://www.culinaryschools.org/kids-games/banana-poker/game.php",
+    "url": "projects/poker/poker.html",
     "newtab": true,
     "description": "A fun and fruity twist on the classic game of poker. Play against opponents, make the best hand, and win all the bananas!",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/bana.jpeg"
@@ -519,7 +953,7 @@
     "name": "1v1 Lol",
     "type": "Skill",
     "image": "game-images/1v1 Lol.png",
-    "url": "https://math181124.github.io/g77-3/class-439",
+    "url": "projects/1v1.lol/index.html",
     "description": "A fast-paced online third-person shooter where you can build structures to defend yourself. Test your building and shooting skills in intense 1v1 battles.",
     "original_image_url": "https://math181124.github.io/img/class-439.png"
   },
@@ -567,7 +1001,7 @@
     "name": "Fruit Ninja",
     "type": "Skill",
     "image": "game-images/Fruit Ninja.png",
-    "url": "https://math181124.github.io/g50/class-22",
+    "url": "projects/fruit-ninja/index.html",
     "description": "The original fruit-slicing sensation. Swipe your screen to slash fruit while avoiding bombs. A juicy and addictive arcade game.",
     "original_image_url": "https://math181124.github.io/img/class-22.png"
   },
@@ -671,7 +1105,7 @@
     "name": "Boxing Random",
     "type": "skill",
     "image": "game-images/Boxing Random.jpeg",
-    "url": "https://labgstore311.github.io/g20/class-825",
+    "url": "projects/boxing-random/index.html",
     "description": "A hilarious physics-based boxing game. Each round has random challenges and physics, making every match unpredictable and fun.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Boxrandom.jpeg"
   },
@@ -679,7 +1113,7 @@
     "name": "Basket Random",
     "type": "skill",
     "image": "game-images/Basket Random.png",
-    "url": "https://labgstore311.github.io/g26/class-436",
+    "url": "projects/basket-random/index.html",
     "description": "Experience basketball like never before in this wacky, physics-based game. Play with random characters on random courts for endless fun.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png"
   },
@@ -687,7 +1121,7 @@
     "name": "Volley Random",
     "type": "skill",
     "image": "game-images/Volley Random.jpeg",
-    "url": "https://labgstore311.github.io/g/class-811",
+    "url": "projects/volley-random/index.html",
     "description": "A fun and chaotic volleyball game with ragdoll physics. Each match is different, with random characters and unpredictable gameplay.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/volleyrand.jpeg"
   },
@@ -743,7 +1177,7 @@
     "name": "Fire Boy and Water Girl 2",
     "type": "multiplayer",
     "image": "game-images/Fire Boy and Water Girl 2.png",
-    "url": "https://math181124.github.io/g177/class-345",
+    "url": "projects/fireboy-and-watergirl-2/index.html",
     "description": "The Light Temple is the setting for the second adventure of Fireboy and Watergirl. Work together to solve puzzles and navigate the temple's challenges.",
     "original_image_url": "https://math181124.github.io/img/class-345.png"
   },
@@ -751,7 +1185,7 @@
     "name": "Fire Boy and Water Girl 3",
     "type": "multiplayer",
     "image": "game-images/Fire Boy and Water Girl 3.png",
-    "url": "https://math181124.github.io/g177/class-344",
+    "url": "projects/fireboy-and-watergirl-3/index.html",
     "description": "Explore the Ice Temple with Fireboy and Watergirl. Use their elemental powers to overcome new puzzles involving light and reflection.",
     "original_image_url": "https://math181124.github.io/img/class-344.png"
   },
@@ -759,7 +1193,7 @@
     "name": "Fire Boy and Water Girl 4",
     "type": "multiplayer",
     "image": "game-images/Fire Boy and Water Girl 4.png",
-    "url": "https://math181124.github.io/g177/class-343",
+    "url": "projects/fireboy-and-watergirl-4/index.html",
     "description": "The Crystal Temple awaits! This time, Fireboy and Watergirl must use crystal portals to solve puzzles in this cooperative platformer.",
     "original_image_url": "https://math181124.github.io/img/class-343.png"
   },
@@ -767,7 +1201,7 @@
     "name": "Fire Boy and Water Girl 5",
     "type": "multiplayer",
     "image": "game-images/Fire Boy and Water Girl 5.png",
-    "url": "https://math181124.github.io/g177/class-342",
+    "url": "projects/fireboy-and-watergirl-5/index.html",
     "description": "In Fireboy and Watergirl 5: Elements, explore temples based on all the previous games. A great challenge for fans of the series.",
     "original_image_url": "https://math181124.github.io/img/class-342.png"
   },
@@ -775,7 +1209,7 @@
     "name": "Fire Boy and Water Girl 6",
     "type": "multiplayer",
     "image": "game-images/Fire Boy and Water Girl 6.png",
-    "url": "https://math181124.github.io/g177/class-341",
+    "url": "projects/fireboy-and-watergirl-6/index.html",
     "description": "The latest adventure for our elemental duo. In Fireboy and Watergirl 6: Fairy Tales, you'll need the help of fairies to solve puzzles and pass levels.",
     "original_image_url": "https://math181124.github.io/img/class-341.png"
   },
@@ -855,7 +1289,7 @@
     "name": "OVO Dimensions",
     "type": "platformer",
     "image": "game-images/OVO Dimensions.png",
-    "url": "https://class1811.github.io/g50/class-14",
+    "url": "projects/ovo-dimensions/index.html",
     "description": "The stick-figure parkour game is back with new dimensions. Run, jump, and slide through even more challenging levels in this fast-paced platformer.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/class-14.png"
   },
@@ -927,7 +1361,7 @@
     "name": "Cell Machine",
     "type": "puzzle",
     "image": "game-images/Cell Machine.png",
-    "url": "https://lite.3kh0.net/projects/cell-machine/",
+    "url": "projects/cell-machine/index.html",
     "description": "A logic puzzle game about building contraptions. Place different types of cells to create machines that solve each puzzle.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cellmachine.png"
   },
@@ -943,7 +1377,7 @@
     "name": "Hextris",
     "type": "skill",
     "image": "game-images/Hextris.png",
-    "url": "https://lite.3kh0.net/projects/hextris/",
+    "url": "projects/hextris/index.html",
     "description": "A fast-paced hexagonal puzzle game. Rotate the hexagon to match colors and clear blocks before they stack up to the top.",
     "original_image_url": "https://lite.3kh0.net/projects/hextris/images/hextris-logo.png"
   },
@@ -1015,7 +1449,7 @@
     "name": "Vex 4",
     "type": "platformer",
     "image": "game-images/Vex 4.png",
-    "url": "https://math181124.github.io/g/class-567/",
+    "url": "projects/vex4/index.html",
     "description": "A true test of precision and timing for platformer fans.",
     "original_image_url": "https://math181124.github.io/img/class-567.png"
   },
@@ -1023,7 +1457,7 @@
     "name": "Vex 5",
     "type": "platformer",
     "image": "game-images/Vex 5.png",
-    "url": "https://math181124.github.io/g26/class-493/",
+    "url": "projects/vex5/index.html",
     "description": "The fifth chapter in the Vex saga introduces new mechanics and challenges.",
     "original_image_url": "https://math181124.github.io/img/class-493.png"
   },
@@ -1031,7 +1465,7 @@
     "name": "Vex 6",
     "type": "platformer",
     "image": "game-images/Vex 6.png",
-    "url": "https://math181124.github.io/g/class-809",
+    "url": "projects/vex6/index.html",
     "description": "The latest installment of the Vex series is here!",
     "original_image_url": "https://math181124.github.io/img/class-809.png"
   },
@@ -1151,7 +1585,7 @@
     "name": "Flappy Bird",
     "type": "skill",
     "image": "game-images/Flappy Bird.png",
-    "url": "https://jxmked.github.io/Flappybird/",
+    "url": "projects/flappy-bird/index.html",
     "description": "The infamously difficult one-button game.",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png"
   },
@@ -1167,7 +1601,7 @@
     "name": "OVO",
     "type": "platformer",
     "image": "game-images/OVO Dimensions.png",
-    "url": "https://ovo-modloader.github.io/versions/1.4.4b/index.html",
+    "url": "projects/ovo/index.html",
     "description": "A fast-paced stickman platformer focused on parkour.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/ovo.jpeg"
   },
@@ -1175,7 +1609,7 @@
     "name": "Slope",
     "type": "skill",
     "image": "game-images/Slope 2.jpeg",
-    "url": "https://23azostore.github.io/s/slope",
+    "url": "projects/slope/index.html",
     "description": "A 3D endless runner where you control a ball rolling down a randomized slope.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/Slope.jpeg"
   },
@@ -1191,7 +1625,7 @@
     "name": "Doodle Jump",
     "type": "skill",
     "image": "game-images/Doodle Jump.png",
-    "url": "https://23azostore.github.io/s7/doodle-jump",
+    "url": "projects/doodle-jump/index.html",
     "description": "The classic endless jumper.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/doodle-removebg-preview.png"
   },
@@ -1207,7 +1641,7 @@
     "name": "Tomb of the mask",
     "type": "skill",
     "image": "game-images/Tomb of the mask.png",
-    "url": "https://23azostore.github.io/s8/tomb-of-the-mask/",
+    "url": "projects/totm/index.html",
     "description": "A fast-paced arcade game set in a vertical labyrinth.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/tombofthemask.png"
   },
@@ -1215,7 +1649,7 @@
     "name": "Moto X3M",
     "type": "racing",
     "image": "game-images/Moto X3M.jpeg",
-    "url": "https://lite.3kh0.net/projects/motox3m/",
+    "url": "projects/moto-x3m/index.html",
     "description": "A thrilling bike racing game with challenging levels and crazy stunts.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg"
   },
@@ -1232,7 +1666,7 @@
     "name": "Moto X3M Pool",
     "type": "racing",
     "image": "game-images/Moto X3M Pool.jpg",
-    "url": "https://lite.3kh0.net/projects/motox3m-pool/",
+    "url": "projects/moto-x3m-pool-party/index.html",
     "description": "The bike racing action continues in a new poolside setting.",
     "original_image_url": "https://lite.3kh0.net/projects/motox3m-pool/splash.jpg"
   },
@@ -1240,7 +1674,7 @@
     "name": "Moto X3M Spooky",
     "type": "racing",
     "image": "game-images/Moto X3M Spooky.jpeg",
-    "url": "https://lite.3kh0.net/projects/motox3m-spooky/",
+    "url": "projects/moto-x3m-spooky-land/index.html",
     "description": "Get ready for a spooky ride in this Halloween-themed edition of Moto X3M.",
     "original_image_url": "https://lite.3kh0.net/projects/motox3m-spooky/splash.jpeg"
   },
@@ -1248,7 +1682,7 @@
     "name": "Moto X3M Winter",
     "type": "racing",
     "image": "game-images/Moto X3M Winter.jpeg",
-    "url": "https://lite.3kh0.net/projects/motox3m-winter/",
+    "url": "projects/moto-x3m-winter/index.html",
     "description": "Race through a winter wonderland in Moto X3M Winter.",
     "original_image_url": "https://lite.3kh0.net/projects/motox3m-winter/download.jpeg"
   },
@@ -1280,7 +1714,7 @@
     "name": "Bitlife",
     "type": "idle",
     "image": "game-images/Bitlife.png",
-    "url": "https://1727859.github.io/cyanidegames/bitlife/index.html",
+    "url": "projects/bitlife/index.html",
     "description": "A life simulation game where you can live out any life you can imagine.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bitlife.png"
   },
@@ -1320,7 +1754,7 @@
     "name": "2048",
     "type": "skill",
     "image": "game-images/2048.png",
-    "url": "https://binbashbanana.github.io/gfiles/gfiles/html5/2048/",
+    "url": "projects/2048/index.html",
     "description": "A sliding puzzle game where you combine numbered tiles to reach the elusive 2048 tile.",
     "original_image_url": "https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png"
   },
@@ -1352,7 +1786,7 @@
     "name": "CircloO",
     "type": "puzzle",
     "image": "game-images/CircloO.png",
-    "url": "https://glcdn.githack.com/3kh0/3kh0-assets/-/raw/main/circlo/index.html",
+    "url": "projects/circlo/index.html",
     "description": "A physics-based puzzle game where you control a ball in a circular level.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/circloo.png"
   },
@@ -1452,7 +1886,7 @@
     "name": "Chrome Dino",
     "type": "skill",
     "image": "game-images/Chrome Dino.png",
-    "url": "https://codingkitten-yt.github.io/alu-games/chrome-dino/",
+    "url": "projects/chrome-dino/index.html",
     "description": "The classic endless runner game you play when you're offline.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/chrome-dino.png"
   },
@@ -1492,7 +1926,7 @@
     "name": "Minesweeper",
     "type": "puzzle",
     "image": "game-images/Minesweeper.png",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Minesweeper.swf",
+    "url": "projects/minesweeper/index.html",
     "description": "The classic logic puzzle game.",
     "original_image_url": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/minesweeper.png"
   },

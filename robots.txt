@@ -10,7 +10,6 @@ Disallow: /components.js
 Disallow: /script.js
 Disallow: /game.js
 Disallow: /favorites.js
-Disallow: /performance-monitor.js
 
 # Specific bot instructions
 User-agent: Googlebot

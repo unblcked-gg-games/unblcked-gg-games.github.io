@@ -196,8 +196,8 @@ document.addEventListener('DOMContentLoaded', () => {
             newGamesTitle.textContent = 'New Games';
             popularGamesTitle.textContent = 'Popular Games';
             
-            const newGames = games.slice(0, 40);
-            const popularGames = games.slice(40, 100);
+            const newGames = games.slice(0, 60);
+            const popularGames = games.slice(60);
 
             newGames.forEach(game => {
                 newGamesGrid.appendChild(createGameCard(game));
@@ -213,8 +213,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const card = document.createElement('div');
         card.className = 'game-card';
         card.addEventListener('click', () => {
-            // Navigate to the new game page, passing game name as a URL parameter
-            window.location.href = `game.html?name=${encodeURIComponent(game.name)}`;
+            // Navigate directly to the clean static game page
+            if (window.getGameUrl) {
+                window.location.href = window.getGameUrl(game);
+            } else {
+                const slug = game.name.toLowerCase().trim().replace(/&/g, '-and-').replace(/[\s\W-]+/g, '-').replace(/^-+|-+$/g, '');
+                window.location.href = `games/${slug}/`;
+            }
         });
 
         const img = document.createElement('img');
